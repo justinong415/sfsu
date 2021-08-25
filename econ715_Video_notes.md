@@ -96,3 +96,11 @@ There are only three possibilities regarding the solution set of such equations:
 1. Unique solution, when _a_ ≠ 0. In this case, the unique solution is given by ![gif](https://user-images.githubusercontent.com/31806435/130720702-8e242506-15de-4d94-ab06-b187c54f4fcb.gif).
 2. No solution, when _a_ = 0 and _d_ ≠ 0. There is no _x_ that satisfies 0 · _x_ = 5 for example.
 3. Infinitely many solution, when _a_ = 0 and _d_ = 0. Any _x_ satisfies 0 · _x_ = 0.
+
+What's next?
+
+* The rest of Chapter 1 is devoted to matrix algebra methods used for answering the key questions
+  * Does a soluton exist?
+  * Under what conditions there exists a unique solution?
+  * How to compute the solutions, if they exist? (focus on (_i_) Gaussian Elimination, (_ii_) Matrix Inversion, and (_iii_) Cramer's rule).  
+* Also, applications to economics
