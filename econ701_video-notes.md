@@ -72,5 +72,9 @@ Implicit functions, Comparative Statics, Envelope Theorem
 
 ![Screen Shot 2021-08-27 at 8 59 33 PM](https://user-images.githubusercontent.com/31806435/131205507-f11615b3-2250-4c56-9c4b-e22b020988de.png)
 
+![Screen Shot 2021-08-27 at 9 04 17 PM](https://user-images.githubusercontent.com/31806435/131205581-c5da3d69-bb5f-42ed-a729-43c2622df041.png)
+
+![Screen Shot 2021-08-27 at 9 07 24 PM](https://user-images.githubusercontent.com/31806435/131205634-99ac634a-17dc-4445-aa9a-8f2607d1a80c.png)
+
 
 
