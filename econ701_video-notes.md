@@ -44,7 +44,8 @@ Differentials, maximizatin of functions of more than one variable, second order 
 
 ![Screen Shot 2021-08-27 at 7 59 38 PM](https://user-images.githubusercontent.com/31806435/131204209-f6d4bfc7-0120-48d5-9646-23c438494baf.png)
 
-![Screen Shot 2021-08-27 at 8 05 33 PM](https://user-images.githubusercontent.com/31806435/131204339-48a4d13e-1f4e-4724-8da4-f769c4b9febe.png)
+![Screen Shot 2021-08-27 at 8 48 48 PM](https://user-images.githubusercontent.com/31806435/131205311-b2fd9e9c-e0ac-4e6c-92dd-9fb6f8e438c3.png)
+
 
 Practice Problem
 * Check the second order condition and see if they hold
@@ -52,9 +53,24 @@ Practice Problem
 
 ![Screen Shot 2021-08-27 at 8 06 52 PM](https://user-images.githubusercontent.com/31806435/131204369-96e9b877-1a26-47d8-8dcf-7fd56b9cb9d0.png)
 
+### Video 1: Chapter 2: Mathematics for Microeconomics, Part 3
+
+Implicit functions, Comparative Statics, Envelope Theorem
+
+![Screen Shot 2021-08-27 at 8 27 04 PM](https://user-images.githubusercontent.com/31806435/131204835-1f054376-dc05-4666-bd5d-7457add73603.png)
+
+![Screen Shot 2021-08-27 at 8 31 47 PM](https://user-images.githubusercontent.com/31806435/131204923-62c5b5cf-3acd-4eb6-9277-c58e6ab514b3.png)
+
+**Comparative Statics**
+
+(Would never do it this way)
+
+![Screen Shot 2021-08-27 at 8 45 12 PM](https://user-images.githubusercontent.com/31806435/131205254-fa9bc6f0-0d32-4756-a68d-2fc13613d2e4.png)
 
 
+**Envelope Theorem**
 
+![Screen Shot 2021-08-27 at 8 59 33 PM](https://user-images.githubusercontent.com/31806435/131205507-f11615b3-2250-4c56-9c4b-e22b020988de.png)
 
 
 
