@@ -54,6 +54,8 @@ An [identity matrix](https://en.wikipedia.org/wiki/Identity_matrix) of size _n_ 
 
 A matrix with all elements equal to zero. Denoted by 0 or ![gif](https://user-images.githubusercontent.com/31806435/131765957-f4f9937f-a90f-49f2-9606-745d2ddb67a0.gif)
 
+<img width="261" alt="Screen Shot 2021-09-01 at 6 32 53 PM" src="https://user-images.githubusercontent.com/31806435/131767212-eaf02307-d654-48fb-a239-5117e4f1ffca.png">
+
 #### Invertible or nonsingular
 
 1. If the inverse of a matrix _A_ exists, it is invertible or nonsingular.
@@ -63,8 +65,20 @@ A matrix with all elements equal to zero. Denoted by 0 or ![gif](https://user-im
 
 ![deepai](https://user-images.githubusercontent.com/31806435/131766987-83eb0790-746b-4a04-be0e-158d2ad5f993.png)
 
+#### Conditions under which matrix product is Well Defined
 
+Matrix product _AB_ is only well defined if number of columns in _A_ is the same as number of rows in _B_.
 
+i.e. if ![gif](https://user-images.githubusercontent.com/31806435/131767531-b1dce5b2-d324-42c0-a72e-658a1468b39a.gif) and ![gif-1](https://user-images.githubusercontent.com/31806435/131767550-68673b48-4d5f-4ddb-b818-335ccf3b8a2d.gif), then ![gif-2](https://user-images.githubusercontent.com/31806435/131767572-eac5fca5-15e2-4bc1-adf6-032847df50aa.gif) for ![gif-3](https://user-images.githubusercontent.com/31806435/131767630-604a49b2-65c5-4485-b0c7-0a1e6a0a282a.gif).
+
+<img width="578" alt="Screen Shot 2021-09-01 at 6 39 29 PM" src="https://user-images.githubusercontent.com/31806435/131767662-c488df1d-d57c-4dea-8ddc-5dc59346022e.png">
+
+#### Conditions under which matrix addition ![gif](https://user-images.githubusercontent.com/31806435/131767720-7158fbc7-e160-499e-a1bc-efb7a6ef5ddb.gif) is Well Defined (where ![gif-1](https://user-images.githubusercontent.com/31806435/131767752-77c08f56-f8ca-4e78-9448-0fe27c59ef3c.gif))
+
+1. _A_ must be a square matrix
+2. _m_ = _n_
+3. _A_ must be symmetric
+4. _A_ must be idempotent
 
 ## Week 1: Course overview
 
