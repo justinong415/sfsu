@@ -1,6 +1,6 @@
 # Econ 715: Mathematical Economics
 
-Lecture Notes with Addendums
+Notes from lecture videos and official lecture notes with addendums.
 
 ## Addendum: Matrix & Linear Algebra Definitions
 
