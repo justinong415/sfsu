@@ -1,9 +1,72 @@
-# Econ 715 Notes
-**Mathematical Economics**
+# Econ 715: Mathematical Economics
 
----
+Lecture Notes with Addendums
 
-### Week 1: Course overview
+## Addendum: Matrix & Linear Algebra Definitions
+
+#### Determinant of a Matrix
+
+![Screen Shot 2021-09-01 at 5 34 29 PM](https://user-images.githubusercontent.com/31806435/131763004-2dc7e94d-0f01-47ee-bed4-26be73a00d16.png)
+
+#### Idempotent (Idempotence)
+
+An idempotent matrix is a matrix which, when multiplied by itself, yields itself. (i.e. Matrix _A_ is idempotent if ![gif](https://user-images.githubusercontent.com/31806435/131763270-8918db7f-86fb-48c5-b82a-5ecb2a7f8ab4.gif))
+
+![Screen Shot 2021-09-01 at 5 39 09 PM](https://user-images.githubusercontent.com/31806435/131763348-c944a720-97ae-42fb-b86b-1a15ec74cae9.png)
+
+#### Square Matrix
+
+A square has the same number of rows as the number of columns. (i.e. _m_ = _n_) 
+
+<img width="481" alt="Screen Shot 2021-09-01 at 5 43 18 PM" src="https://user-images.githubusercontent.com/31806435/131763668-83479f2c-7fb8-4874-b5d6-d1f5901f9e11.png">
+
+#### Column Vector, Row Vector, Scalar
+
+1. Column Vector: A matrix with one column (_n_ = 1)
+2. Row Vector: A matrix with one row (_m_ = 1)
+3. Scalar: A matrix with only one element or a number (_m_ = _n_ = 1)
+
+<img width="481" alt="Screen Shot 2021-09-01 at 5 46 39 PM" src="https://user-images.githubusercontent.com/31806435/131763911-8d488cfc-bc8b-4a6f-9550-80cd745c5fed.png">
+
+#### Symmetric
+
+A symmetric is a square matrix that is equal to its tranpose (i.e. A = A')
+
+![Screen Shot 2021-09-01 at 5 51 34 PM](https://user-images.githubusercontent.com/31806435/131764264-87144d07-d300-4213-88c6-2c355e17788b.png)
+
+Note: Symmetric matrices must be square and have ![gif](https://user-images.githubusercontent.com/31806435/131764510-d0aeaf8f-b291-4988-b8ee-75c3e7ebae03.gif).
+
+#### Diagonal
+
+A [diagonal](https://en.wikipedia.org/wiki/Diagonal_matrix) is a square matrix that has all off-diagonal elements equal to zero and at least one element on the diagnoal not zero. (i.e. Where the entries outside the [main diagonal](https://en.wikipedia.org/wiki/Main_diagonal) are all zero.)
+
+![Screen Shot 2021-09-01 at 6 08 31 PM](https://user-images.githubusercontent.com/31806435/131765413-fad39f83-c56f-47f1-b3ec-6e11ff220c42.png) 
+
+![Screen Shot 2021-09-01 at 6 08 41 PM](https://user-images.githubusercontent.com/31806435/131765416-b9d2ecff-26f3-429d-b687-e06890862cd2.png)
+
+#### Identity Matrix (denoted _I_ or ![gif](https://user-images.githubusercontent.com/31806435/131765484-40d66682-7da5-4add-88ce-737766c1f428.gif))
+
+An [identity matrix](https://en.wikipedia.org/wiki/Identity_matrix) of size _n_ is the _n_ × _n_ square matrix with ones on the main diagonal and zeros elsewhere
+
+![Screen Shot 2021-09-01 at 6 12 56 PM](https://user-images.githubusercontent.com/31806435/131765722-e690f934-b7fd-4470-8e7f-3d1c48d26d3a.png)
+
+#### Null Matrix
+
+A matrix with all elements equal to zero. Denoted by 0 or ![gif](https://user-images.githubusercontent.com/31806435/131765957-f4f9937f-a90f-49f2-9606-745d2ddb67a0.gif)
+
+#### Invertible or nonsingular
+
+1. If the inverse of a matrix _A_ exists, it is invertible or nonsingular.
+2. If the inverse does not exist, it is non-invertible or singular.
+
+![gif](https://user-images.githubusercontent.com/31806435/131766946-ae1847d5-87ff-4544-bcbd-8ce4cbcc1c93.gif)
+
+![deepai](https://user-images.githubusercontent.com/31806435/131766987-83eb0790-746b-4a04-be0e-158d2ad5f993.png)
+
+
+
+
+## Week 1: Course overview
 
 #### Economics - a Subfield of Optimization Theory
 
@@ -38,7 +101,6 @@ Thus, any economic problem is constrained optimization:
 2. Many practical problems cannot be solved without computers.
 3. Matlab is available for free to all CSU students.
 4. Matlab is easy to use.
-
 
 #### Linear systems
 
@@ -108,11 +170,7 @@ There are only three possibilities regarding the solution set of such equations:
   * How to compute the solutions, if they exist? (focus on (_i_) Gaussian Elimination, (_ii_) Matrix Inversion, and (_iii_) Cramer's rule).  
 * Also, applications to economics
 
-
-
----
-
-### Week 2: Introduction to Matrix Algebra
+## Week 2: Introduction to Matrix Algebra
 
 #### Linear Systems in Matrix Form
 
