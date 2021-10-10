@@ -1,4 +1,4 @@
-#Econ 701 Seminar: Microeconomic Theory
+# Econ 701 Seminar: Microeconomic Theory
 
 ---
 
