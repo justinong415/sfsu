@@ -1,9 +1,13 @@
 
 Table of Contents
 
-1. [Chapter 2, Part 1](#Chapter-2)
+1. [Chapter 2: Mathematics for Microeconomics](#Chapter-2-Mathematics-for-Microeconomics)
 
-### Chapter 2: Mathematics for Microeconomics, Part 1
+---
+
+### Chapter 2: Mathematics for Microeconomics
+
+**Part 1**
 
 ![Screenshot 2021-10-31 203016](https://user-images.githubusercontent.com/31806435/139618146-5e76182d-437a-4250-947b-e7b12ca13b07.png)
 
