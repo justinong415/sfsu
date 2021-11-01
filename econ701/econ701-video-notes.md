@@ -1,4 +1,6 @@
 
+363 x 460
+
 Table of Contents
 
 1. [Chapter 2: Mathematics for Microeconomics](#Chapter-2-Mathematics-for-Microeconomics)
