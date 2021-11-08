@@ -4,6 +4,7 @@
 Table of Contents
 
 1. [Chapter 2: Mathematics for Microeconomics](#Chapter-2-Mathematics-for-Microeconomics)
+2. [Chapter 3: Preferences and Utility](#Chapter-3-Preferences-and-Utility)
 
 ---
 
@@ -80,5 +81,24 @@ Table of Contents
 ![Screen Shot 2021-11-07 at 5 00 39 PM](https://user-images.githubusercontent.com/31806435/140669408-ff2f188e-cd03-4b5b-a3a7-c13ea766344e.png)
 
 ![Screen Shot 2021-11-07 at 5 01 41 PM](https://user-images.githubusercontent.com/31806435/140669412-4359b6fa-4d75-4c55-a8e7-5e119371874f.png)
+
+**Part 6**
+
+![Screen Shot 2021-11-07 at 5 03 05 PM](https://user-images.githubusercontent.com/31806435/140669585-8547a0a3-8524-4d90-8267-e237aed76637.png)
+
+![Screen Shot 2021-11-07 at 5 03 25 PM](https://user-images.githubusercontent.com/31806435/140669587-93735f70-6d3a-47be-854e-43615ddf268a.png)
+
+![Screen Shot 2021-11-07 at 5 03 46 PM](https://user-images.githubusercontent.com/31806435/140669589-5af79e51-5d79-47c4-b0c1-24c0819e890a.png)
+
+![Screen Shot 2021-11-07 at 5 04 04 PM](https://user-images.githubusercontent.com/31806435/140669592-354ad5d0-d083-4ff7-af8f-d76e8006c334.png)
+
+![Screen Shot 2021-11-07 at 5 04 18 PM](https://user-images.githubusercontent.com/31806435/140669595-b45124d4-ba38-4738-984c-89e647f3f3df.png)
+
+![Screen Shot 2021-11-07 at 5 04 34 PM](https://user-images.githubusercontent.com/31806435/140669597-5e3614f3-22d1-49fe-9767-bece922eb2c5.png)
+
+![Screen Shot 2021-11-07 at 5 03 05 PM](https://user-images.githubusercontent.com/31806435/140669585-8547a0a3-8524-4d90-8267-e237aed76637.png)
+
+### Chapter 3: Preferences and Utility
+
 
 
