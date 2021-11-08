@@ -6,6 +6,7 @@ Table of Contents
 1. [Chapter 2: Mathematics for Microeconomics](#Chapter-2-Mathematics-for-Microeconomics)
 2. [Chapter 3: Preferences and Utility](#Chapter-3-Preferences-and-Utility)
 3. [Chapter 4: Utility Maximization and Choice](#Chapter-4-Utility-Maximization-and-Choice)
+4. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
 
 ---
 
@@ -223,7 +224,9 @@ Table of Contents
 
 ![Screen Shot 2021-11-07 at 6 53 57 PM](https://user-images.githubusercontent.com/31806435/140676998-fa3d3e57-734c-4cab-8b41-769852c196fb.png)
 
+---
 
+### Chapter 5: Income and Substitution Effects
 
 
 
