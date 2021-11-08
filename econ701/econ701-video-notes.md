@@ -51,4 +51,20 @@ Table of Contents
 
 ![Screen Shot 2021-11-07 at 4 36 36 PM](https://user-images.githubusercontent.com/31806435/140668503-9aab8d51-45c7-4a4b-a4ea-b086c00b78f0.png)
 
+**Part 4**
+
+![Screen Shot 2021-11-07 at 4 43 00 PM](https://user-images.githubusercontent.com/31806435/140668808-9919df42-2c8f-4771-b141-ec91fe01fd30.png)
+
+![Screen Shot 2021-11-07 at 4 43 42 PM](https://user-images.githubusercontent.com/31806435/140668812-7f22689d-feae-4944-a983-add2685702d6.png)
+
+![Screen Shot 2021-11-07 at 4 44 02 PM](https://user-images.githubusercontent.com/31806435/140668818-910cdbed-e832-4803-a55a-f461302dfb02.png)
+
+![Screen Shot 2021-11-07 at 4 44 46 PM](https://user-images.githubusercontent.com/31806435/140668822-1da3b662-874a-42e5-a879-9f70a1c25671.png)
+
+![Screen Shot 2021-11-07 at 4 45 10 PM](https://user-images.githubusercontent.com/31806435/140668827-4bfbec12-3c07-4c4b-8dbd-741c904f533f.png)
+
+![Screen Shot 2021-11-07 at 4 45 28 PM](https://user-images.githubusercontent.com/31806435/140668830-8746b221-46bb-41ce-a221-26a79e13a683.png)
+
+![Screen Shot 2021-11-07 at 4 45 47 PM](https://user-images.githubusercontent.com/31806435/140668833-8c60252e-a56b-480d-9af9-218bf7d02257.png)
+
 
