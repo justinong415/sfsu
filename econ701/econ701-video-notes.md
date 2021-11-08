@@ -5,6 +5,7 @@ Table of Contents
 
 1. [Chapter 2: Mathematics for Microeconomics](#Chapter-2-Mathematics-for-Microeconomics)
 2. [Chapter 3: Preferences and Utility](#Chapter-3-Preferences-and-Utility)
+3. [Chapter 4: Utility Maximization and Choice](#Chapter-4-Utility-Maximization-and-Choice)
 
 ---
 
@@ -151,5 +152,31 @@ Table of Contents
 ![Screen Shot 2021-11-07 at 5 59 40 PM](https://user-images.githubusercontent.com/31806435/140673065-d33fb174-671b-4cd9-bd11-04aec4ef74f5.png)
 
 ![Screen Shot 2021-11-07 at 5 59 53 PM](https://user-images.githubusercontent.com/31806435/140673068-79b734cf-81ee-4866-98a5-ace96360b101.png)
+
+---
+
+### Chapter 4: Utility Maximization and Choice
+
+![Screen Shot 2021-11-07 at 6 10 05 PM](https://user-images.githubusercontent.com/31806435/140674427-67d18098-ecfa-4340-9f6c-1f9415ea63e4.png)
+
+![Screen Shot 2021-11-07 at 6 10 28 PM](https://user-images.githubusercontent.com/31806435/140674439-520ccb52-a029-43f9-ba42-38b65b0bde27.png)
+
+![Screen Shot 2021-11-07 at 6 17 52 PM](https://user-images.githubusercontent.com/31806435/140674448-a0ae8e8b-c7be-4310-a795-86bf48d1e27d.png)
+
+![Screen Shot 2021-11-07 at 6 18 11 PM](https://user-images.githubusercontent.com/31806435/140674452-784276cb-1705-42b5-93c6-28d5442e5f54.png)
+
+![Screen Shot 2021-11-07 at 6 18 34 PM](https://user-images.githubusercontent.com/31806435/140674456-41d821eb-ae9b-4099-9621-eb8c42118528.png)
+
+![Screen Shot 2021-11-07 at 6 18 51 PM](https://user-images.githubusercontent.com/31806435/140674465-ab306ae8-e872-4e81-a93f-1f2bc90c6b18.png)
+
+![Screen Shot 2021-11-07 at 6 19 03 PM](https://user-images.githubusercontent.com/31806435/140674475-bdda2e26-40e7-4d64-b9f8-6ee4798dd400.png)
+
+![Screen Shot 2021-11-07 at 6 19 18 PM](https://user-images.githubusercontent.com/31806435/140674479-511ea579-75c1-4022-a0a2-6f216b84989b.png)
+
+![Screen Shot 2021-11-07 at 6 19 30 PM](https://user-images.githubusercontent.com/31806435/140674482-c5f5372c-e396-4304-bcf6-4bc5362d453c.png)
+
+
+
+
 
 
