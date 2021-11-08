@@ -256,21 +256,50 @@ Table of Contents
 
 **Part 3**
 
+![Screen Shot 2021-11-07 at 9 14 41 PM](https://user-images.githubusercontent.com/31806435/140687980-5b6b947e-82ab-4837-b5d3-a82674857611.png)
+
+![Screen Shot 2021-11-07 at 9 14 58 PM](https://user-images.githubusercontent.com/31806435/140687988-6b9199b2-a99e-4ed2-876f-f2805fd2895a.png)
+
+![Screen Shot 2021-11-07 at 9 15 24 PM](https://user-images.githubusercontent.com/31806435/140687994-f25aeed0-f4ad-428c-bd96-1f48bfe18b9d.png)
+
+![Screen Shot 2021-11-07 at 9 15 54 PM](https://user-images.githubusercontent.com/31806435/140687998-0e9c6e34-2b99-495f-9d7a-40b071a4ce4c.png)
+
+![Screen Shot 2021-11-07 at 9 16 07 PM](https://user-images.githubusercontent.com/31806435/140688006-3304c57f-f776-47c4-b7c8-b927d56f64d7.png)
+
 **Part 4**
+
+![Screen Shot 2021-11-07 at 9 17 09 PM](https://user-images.githubusercontent.com/31806435/140688127-e5cbe6f7-3b59-45e1-b83f-293ec5407a1a.png)
+
+![Screen Shot 2021-11-07 at 9 17 25 PM](https://user-images.githubusercontent.com/31806435/140688144-e9457369-1acb-49bb-b497-b9121ba3c2a2.png)
+
+![Screen Shot 2021-11-07 at 9 17 49 PM](https://user-images.githubusercontent.com/31806435/140688149-9864ba6a-deab-48c6-aafd-bd9c09a0f7b3.png)
 
 **Part 5**
 
+![Screen Shot 2021-11-07 at 9 21 58 PM](https://user-images.githubusercontent.com/31806435/140688784-e890772a-41dc-4dc2-9bc4-a972a965198b.png)
+
+![Screen Shot 2021-11-07 at 9 22 42 PM](https://user-images.githubusercontent.com/31806435/140688787-2334fccb-9782-46aa-a3e2-2a7a76cfbb53.png)
+
+![Screen Shot 2021-11-07 at 9 22 53 PM](https://user-images.githubusercontent.com/31806435/140688796-7ec8241c-97fa-44ed-a474-3c801ff8c44e.png)
+
+![Screen Shot 2021-11-07 at 9 23 13 PM](https://user-images.githubusercontent.com/31806435/140688803-a6915ab8-bbf2-400a-95a6-64b4f1e6f12e.png)
+
+![Screen Shot 2021-11-07 at 9 23 22 PM](https://user-images.githubusercontent.com/31806435/140688807-37bd478a-c979-4116-b4d6-15d534ddc6b8.png)
+
+![Screen Shot 2021-11-07 at 9 23 31 PM](https://user-images.githubusercontent.com/31806435/140688811-e24b8135-bee9-4d44-a55f-c202b47432dc.png)
 
 
+**Part 6**
 
+**Part 7**
 
+**Part 8**
 
+**Part 9**
 
+**Part 10**
 
-
-
-
-
+**Part 11**
 
 
 
