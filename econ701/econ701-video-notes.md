@@ -39,3 +39,16 @@ Table of Contents
 
 **Part 3**
 
+![Screen Shot 2021-11-07 at 4 34 00 PM](https://user-images.githubusercontent.com/31806435/140668488-d339c459-8d7b-4a63-9eb5-6133892c14d3.png)
+
+![Screen Shot 2021-11-07 at 4 34 30 PM](https://user-images.githubusercontent.com/31806435/140668491-c0f976d2-4182-4f61-bbc1-049d284c1b01.png)
+
+![Screen Shot 2021-11-07 at 4 34 57 PM](https://user-images.githubusercontent.com/31806435/140668494-4a5ab25d-a7c2-45d3-86b3-08c5f282a0c3.png)
+
+![Screen Shot 2021-11-07 at 4 35 55 PM](https://user-images.githubusercontent.com/31806435/140668498-800c908f-42d3-454a-84d8-419a9e3419e5.png)
+
+![Screen Shot 2021-11-07 at 4 36 20 PM](https://user-images.githubusercontent.com/31806435/140668501-7d092485-dec3-4afa-b310-275606691fba.png)
+
+![Screen Shot 2021-11-07 at 4 36 36 PM](https://user-images.githubusercontent.com/31806435/140668503-9aab8d51-45c7-4a4b-a4ea-b086c00b78f0.png)
+
+
