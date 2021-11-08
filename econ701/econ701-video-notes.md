@@ -138,7 +138,7 @@ Table of Contents
 
 **Part 3**
 
-![Screen Shot 2021-11-07 at 5 57 11 PM](https://user-images.githubusercontent.com/31806435/140673034-4c23781c-da07-4162-86e1-dfe21815cdfc.png)
+![Screen Shot 2021-11-07 at 5 57 11 PM](https://user-images.githubusercontent.com/31806435/140673193-9e5e77b4-9cfb-4828-853f-ad83871fe620.png)
 
 ![Screen Shot 2021-11-07 at 5 58 02 PM](https://user-images.githubusercontent.com/31806435/140673040-43e6886b-14c5-40d3-bc23-ffcbc96a8641.png)
 
