@@ -98,6 +98,8 @@ Table of Contents
 
 ![Screen Shot 2021-11-07 at 5 03 05 PM](https://user-images.githubusercontent.com/31806435/140669585-8547a0a3-8524-4d90-8267-e237aed76637.png)
 
+---
+
 ### Chapter 3: Preferences and Utility
 
 
