@@ -228,6 +228,26 @@ Table of Contents
 
 ### Chapter 5: Income and Substitution Effects
 
+**Part 1**
+
+![Screen Shot 2021-11-07 at 9 02 14 PM](https://user-images.githubusercontent.com/31806435/140687010-3191bad1-42ba-4e85-b0a4-dbd37de39d18.png)
+
+![Screen Shot 2021-11-07 at 9 02 45 PM](https://user-images.githubusercontent.com/31806435/140687013-b7e0c58d-8811-4fd6-b46e-c6825a78d76a.png)
+
+![Screen Shot 2021-11-07 at 9 03 02 PM](https://user-images.githubusercontent.com/31806435/140687018-fdafeba5-8a12-41cd-9d4a-ef46b225edb3.png)
+
+![Screen Shot 2021-11-07 at 9 03 22 PM](https://user-images.githubusercontent.com/31806435/140687022-8966fd86-4919-45fe-ba4c-aaecdf4c4f41.png)
+
+![Screen Shot 2021-11-07 at 9 03 37 PM](https://user-images.githubusercontent.com/31806435/140687026-b808e1d2-5157-43c2-bba5-1b3a08fde9ed.png)
+
+**Part 2**
+
+**Part 3**
+
+**Part 4**
+
+**Part 5**
+
 
 
 
