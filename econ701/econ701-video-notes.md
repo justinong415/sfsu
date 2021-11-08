@@ -157,6 +157,8 @@ Table of Contents
 
 ### Chapter 4: Utility Maximization and Choice
 
+**Part 1**
+
 ![Screen Shot 2021-11-07 at 6 10 05 PM](https://user-images.githubusercontent.com/31806435/140674427-67d18098-ecfa-4340-9f6c-1f9415ea63e4.png)
 
 ![Screen Shot 2021-11-07 at 6 10 28 PM](https://user-images.githubusercontent.com/31806435/140674439-520ccb52-a029-43f9-ba42-38b65b0bde27.png)
@@ -174,6 +176,43 @@ Table of Contents
 ![Screen Shot 2021-11-07 at 6 19 18 PM](https://user-images.githubusercontent.com/31806435/140674479-511ea579-75c1-4022-a0a2-6f216b84989b.png)
 
 ![Screen Shot 2021-11-07 at 6 19 30 PM](https://user-images.githubusercontent.com/31806435/140674482-c5f5372c-e396-4304-bcf6-4bc5362d453c.png)
+
+**Part 2**
+
+![Screen Shot 2021-11-07 at 6 30 53 PM](https://user-images.githubusercontent.com/31806435/140675360-32c8d332-6929-4152-ac11-83680cafa18e.png)
+
+![Screen Shot 2021-11-07 at 6 31 13 PM](https://user-images.githubusercontent.com/31806435/140675368-82f5693b-3e8b-48c5-81df-212ee01944f1.png)
+
+![Screen Shot 2021-11-07 at 6 31 55 PM](https://user-images.githubusercontent.com/31806435/140675374-afbc22d3-8a1f-4568-bc7f-b4024fef9a56.png)
+
+![Screen Shot 2021-11-07 at 6 32 14 PM](https://user-images.githubusercontent.com/31806435/140675378-5cb25e41-a75f-48e2-90bc-798f3d9b766d.png)
+
+![Screen Shot 2021-11-07 at 6 32 47 PM](https://user-images.githubusercontent.com/31806435/140675384-b965f9d5-a1dc-480d-8676-e0f8eb02055e.png)
+
+![Screen Shot 2021-11-07 at 6 33 02 PM](https://user-images.githubusercontent.com/31806435/140675392-e39b2599-c323-4c01-9193-ff84606edd1e.png)
+
+![Screen Shot 2021-11-07 at 6 33 18 PM](https://user-images.githubusercontent.com/31806435/140675395-0841e882-bea0-4201-a9c5-91decb93f8fa.png)
+
+**Part 3**
+
+![Screen Shot 2021-11-07 at 6 43 04 PM](https://user-images.githubusercontent.com/31806435/140676548-8fb4a263-8004-4375-bea7-de2c5df1d00b.png)
+
+![Screen Shot 2021-11-07 at 6 43 23 PM](https://user-images.githubusercontent.com/31806435/140676554-8945b1e3-a49c-4122-938d-cf93ecfa7f12.png)
+
+![Screen Shot 2021-11-07 at 6 43 38 PM](https://user-images.githubusercontent.com/31806435/140676558-acf95d23-5363-4cf1-b16f-76be7b828f91.png)
+
+![Screen Shot 2021-11-07 at 6 43 52 PM](https://user-images.githubusercontent.com/31806435/140676563-89ce3945-f471-4b78-a8f9-e19aa6d44d4d.png)
+
+![Screen Shot 2021-11-07 at 6 44 08 PM](https://user-images.githubusercontent.com/31806435/140676566-daec64a2-294e-46cc-8782-60cad87cbe97.png)
+
+![Screen Shot 2021-11-07 at 6 49 16 PM](https://user-images.githubusercontent.com/31806435/140676571-13a09d91-ec9c-4381-96ff-84d04aba3fd1.png)
+
+**Part 4**
+
+
+
+
+
 
 
 
