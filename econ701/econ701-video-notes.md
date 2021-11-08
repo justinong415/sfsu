@@ -102,5 +102,21 @@ Table of Contents
 
 ### Chapter 3: Preferences and Utility
 
+**Part 1**
+
+![Screen Shot 2021-11-07 at 5 49 05 PM](https://user-images.githubusercontent.com/31806435/140672208-df9bcdcf-6bf0-4f4c-8d62-42187d517e3c.png)
+
+![Screen Shot 2021-11-07 at 5 49 26 PM](https://user-images.githubusercontent.com/31806435/140672212-6582c033-a7a2-4d53-91b6-43c797fd5ec0.png)
+
+![Screen Shot 2021-11-07 at 5 49 36 PM](https://user-images.githubusercontent.com/31806435/140672219-82a98cb7-0767-41c7-8137-e7043ed365d1.png)
+
+![Screen Shot 2021-11-07 at 5 49 53 PM](https://user-images.githubusercontent.com/31806435/140672226-8d4cb53c-9565-418b-aa0d-b2eefa0d7051.png)
+
+![Screen Shot 2021-11-07 at 5 50 19 PM](https://user-images.githubusercontent.com/31806435/140672230-fa7c67fd-7b3c-4f04-afdd-ea394544dbaa.png)
+
+![Screen Shot 2021-11-07 at 5 50 30 PM](https://user-images.githubusercontent.com/31806435/140672236-9d4ac5c7-0211-4b9c-92d0-527af6df0317.png)
+
+
+
 
 
