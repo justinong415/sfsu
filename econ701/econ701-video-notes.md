@@ -6,6 +6,7 @@
 4. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
 5. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
 6. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
+7. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
 
 ---
 
@@ -446,4 +447,21 @@
 ![Screen Shot 2021-11-08 at 9 38 36 PM](https://user-images.githubusercontent.com/31806435/140868715-a659092c-10ea-47b9-8b27-8e337cc00cdc.png)
 
 ![Screen Shot 2021-11-08 at 9 38 48 PM](https://user-images.githubusercontent.com/31806435/140868723-c7554a7c-515f-49c7-8e99-6d90058160e0.png)
+
+---
+
+### Chapter 9: Production Functions
+
+**Part 1**
+
+**Part 2**
+
+
+
+
+
+
+
+
+
 
