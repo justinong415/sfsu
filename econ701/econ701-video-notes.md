@@ -7,6 +7,7 @@ Table of Contents
 2. [Chapter 3: Preferences and Utility](#Chapter-3-Preferences-and-Utility)
 3. [Chapter 4: Utility Maximization and Choice](#Chapter-4-Utility-Maximization-and-Choice)
 4. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
+5. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
 
 ---
 
@@ -358,7 +359,9 @@ Table of Contents
 
 ![Screen Shot 2021-11-08 at 9 04 14 PM](https://user-images.githubusercontent.com/31806435/140865751-c12edab1-8e22-4ea8-a47f-2eda85d70706.png)
 
+[**Supplemental Notes Revealed Preference**](https://github.com/justinong415/sfsu/blob/main/econ701/Supplemental%20Notes%20Revealed%20Preference.pdf)
 
+---
 
-
+### Chapter 6: Demand Relationships Among Goods
 
