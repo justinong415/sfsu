@@ -43,7 +43,7 @@
     * 2: (continued) Deriving the Cost Function, AC, MC, Properties, Sherperd's Lemma, and Contingent Demand
     * 3: Short Run Costs
     * 4: Short Run Costs vs Long Run Costs (graphical)
-14. [Chapter 11: Profit Maximization](Chapter-11-Profit-Maximization)
+14. [Chapter 11: Profit Maximization](#Chapter-11-Profit-Maximization)
     * 1: Marginal Revenue, MR and Price Elasticity of Demand, Lerner Index (price-cost margin)
     * 2: Short-Run Supply by a Price-Taking Competitive Firm, Short-Run Shutdown Decision, Deriving Short-Run Supply
     * 3: Profit Functions, Hotelling's Lemma and Other Envelope Results, Producer Surplus
