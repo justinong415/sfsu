@@ -27,13 +27,13 @@
    * 10: Revealed Preference, WARP
 9. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
 10. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
-   * 1: Expected Value, Expected Utility
-   * 2: von Neumann-Morgenstern Utility
-   * 3: Attitudes Toward Risk: Risk Aversion, Risk Neutrality, Risk Taking
-   * 4: Insurance
-   * 5: Measure of Risk Aversion
-   * 6: Numerical Example for Intuition
-   * 7: Portfolio Choice
+    * 1: Expected Value, Expected Utility
+    * 2: von Neumann-Morgenstern Utility
+    * 3: Attitudes Toward Risk: Risk Aversion, Risk Neutrality, Risk Taking
+    * 4: Insurance
+    * 5: Measure of Risk Aversion
+    * 6: Numerical Example for Intuition
+    * 7: Portfolio Choice
 12. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
 
 ---
