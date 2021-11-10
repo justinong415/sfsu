@@ -26,7 +26,7 @@
    * 9: More on Demand Elasticities
    * 10: Revealed Preference, WARP
 9. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
-10. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
+11. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
     * 1: Expected Value, Expected Utility
     * 2: von Neumann-Morgenstern Utility
     * 3: Attitudes Toward Risk: Risk Aversion, Risk Neutrality, Risk Taking
@@ -35,6 +35,9 @@
     * 6: Numerical Example for Intuition
     * 7: Portfolio Choice
 12. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
+    * 1: Marginal Physical Product, Average Product, Marginal Rate of Technical Substitution, Returns to Scale
+    * 2: Homothetic Production Functions, Elasticity of Substitution, Some Specific Production Functions
+13. [Chapter 10: Cost Functions](#Chapter-10-Cost-Functions)
 
 ---
 
@@ -478,9 +481,50 @@
 
 ### Chapter 9: Production Functions
 
-**Part 1**
+**Part 1: Marginal Physical Product, Average Product, Marginal Rate of Technical Substitution, Returns to Scale
 
-**Part 2**
+![Screen Shot 2021-11-09 at 8 20 45 PM](https://user-images.githubusercontent.com/31806435/141049315-263d3328-23d2-4659-b7d7-a234911c1d48.png)
+
+![Screen Shot 2021-11-09 at 8 21 20 PM](https://user-images.githubusercontent.com/31806435/141049319-4255a2d4-ff70-406c-84db-a69977ea4606.png)
+
+![Screen Shot 2021-11-09 at 8 21 36 PM](https://user-images.githubusercontent.com/31806435/141049323-3dd7692c-c82a-4eb4-a7de-58d3d01593dd.png)
+
+![Screen Shot 2021-11-09 at 8 21 55 PM](https://user-images.githubusercontent.com/31806435/141049330-180bd45a-7845-42b9-87e2-5dff836b9670.png)
+
+![Screen Shot 2021-11-09 at 8 22 30 PM](https://user-images.githubusercontent.com/31806435/141049340-a8bf11ef-cccb-4c06-8e79-19cabb58afd5.png)
+
+![Screen Shot 2021-11-09 at 8 22 49 PM](https://user-images.githubusercontent.com/31806435/141049346-9d619922-d992-4eb3-a1cf-dccc4a646dd2.png)
+
+**Part 2: Homothetic Production Functions, Elasticity of Substitution, Some Specific Production Functions**
+
+![Screen Shot 2021-11-09 at 8 30 30 PM](https://user-images.githubusercontent.com/31806435/141050121-5860f736-8e1b-46e2-868c-6c65dabb1f43.png)
+
+![Screen Shot 2021-11-09 at 8 30 40 PM](https://user-images.githubusercontent.com/31806435/141050126-ee7666c9-e7bb-400d-a6f5-88eba9abb0b4.png)
+
+![Screen Shot 2021-11-09 at 8 30 49 PM](https://user-images.githubusercontent.com/31806435/141050134-962ee34a-783b-4add-950f-133271b03e4b.png)
+
+![Screen Shot 2021-11-09 at 8 31 03 PM](https://user-images.githubusercontent.com/31806435/141050138-05b4f0a3-a3cd-44f3-a5a0-7803947ab317.png)
+
+![Screen Shot 2021-11-09 at 8 31 21 PM](https://user-images.githubusercontent.com/31806435/141050142-a5b60029-15f0-4ab4-abe9-8fc5d5bf9df6.png)
+
+
+---
+
+### Chapter 10: Cost Functions
+
+**Part 1
+
+**Part 2
+
+**Part 2
+
+**Part 3
+
+**Part 4
+
+
+
+
 
 
 
