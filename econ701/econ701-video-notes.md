@@ -1,12 +1,16 @@
 **Table of Contents**
 
 1. [Chapter 2: Mathematics for Microeconomics](#Chapter-2-Mathematics-for-Microeconomics)
-2. [Chapter 3: Preferences and Utility](#Chapter-3-Preferences-and-Utility)
-3. [Chapter 4: Utility Maximization and Choice](#Chapter-4-Utility-Maximization-and-Choice)
-4. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
-5. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
-6. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
-7. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
+   * 3: Implicit Functions, Comparative Statics, Envelope Theorem
+   * 4: Constrainted Optimization
+   * 5: Duality, Quasi-concavity/convexity
+   * 6: Homogenous Functions, Euler's Theorem, Monotonic Transformations, and Homothetic Functions
+3. [Chapter 3: Preferences and Utility](#Chapter-3-Preferences-and-Utility)
+4. [Chapter 4: Utility Maximization and Choice](#Chapter-4-Utility-Maximization-and-Choice)
+5. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
+6. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
+7. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
+8. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
 
 ---
 
@@ -40,7 +44,7 @@
 
 ![Screenshot 2021-10-31 204446](https://user-images.githubusercontent.com/31806435/139619010-113e6c63-c97d-4b96-9e85-7b5f80c7dcc6.png)
 
-**Part 3**
+**Part 3: Implicit Functions, Comparative Statics, Envelope Theorem**
 
 ![Screen Shot 2021-11-07 at 4 34 00 PM](https://user-images.githubusercontent.com/31806435/140668488-d339c459-8d7b-4a63-9eb5-6133892c14d3.png)
 
@@ -54,7 +58,7 @@
 
 ![Screen Shot 2021-11-07 at 4 36 36 PM](https://user-images.githubusercontent.com/31806435/140668503-9aab8d51-45c7-4a4b-a4ea-b086c00b78f0.png)
 
-**Part 4**
+**Part 4: Constrainted Optimization**
 
 ![Screen Shot 2021-11-07 at 4 43 00 PM](https://user-images.githubusercontent.com/31806435/140668808-9919df42-2c8f-4771-b141-ec91fe01fd30.png)
 
@@ -70,7 +74,7 @@
 
 ![Screen Shot 2021-11-07 at 4 45 47 PM](https://user-images.githubusercontent.com/31806435/140668833-8c60252e-a56b-480d-9af9-218bf7d02257.png)
 
-**Part 5**
+**Part 5: Duality, Quasi-concavity/convexity**
 
 ![Screen Shot 2021-11-07 at 4 59 02 PM](https://user-images.githubusercontent.com/31806435/140669390-937b825c-748b-49c0-b994-e5bab2b7b809.png)
 
@@ -84,7 +88,7 @@
 
 ![Screen Shot 2021-11-07 at 5 01 41 PM](https://user-images.githubusercontent.com/31806435/140669412-4359b6fa-4d75-4c55-a8e7-5e119371874f.png)
 
-**Part 6**
+**Part 6: Homogenous Functions, Euler's Theorem, Monotonic Transformations, and Homothetic Functions**
 
 ![Screen Shot 2021-11-07 at 5 03 05 PM](https://user-images.githubusercontent.com/31806435/140669585-8547a0a3-8524-4d90-8267-e237aed76637.png)
 
