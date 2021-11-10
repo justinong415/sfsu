@@ -27,7 +27,14 @@
    * 10: Revealed Preference, WARP
 9. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
 10. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
-11. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
+   * 1: Expected Value, Expected Utility
+   * 2: von Neumann-Morgenstern Utility
+   * 3: Attitudes Toward Risk: Risk Aversion, Risk Neutrality, Risk Taking
+   * 4: Insurance
+   * 5: Measure of Risk Aversion
+   * 6: Numerical Example for Intuition
+   * 7: Portfolio Choice
+12. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
 
 ---
 
@@ -395,21 +402,77 @@
 
 ### Chapter 7: Uncertainty
 
-**Part 1**
+**Part 1: Expected Value, Expected Utility**
 
-**Part 2**
+![Screen Shot 2021-11-09 at 7 50 41 PM](https://user-images.githubusercontent.com/31806435/141046679-3d467206-1f2d-4675-900a-df98e2a1431b.png)
 
-**Part 3**
+![Screen Shot 2021-11-09 at 7 50 52 PM](https://user-images.githubusercontent.com/31806435/141046683-cc881999-e304-4672-9d32-26331b5694a7.png)
 
-**Part 4**
+![Screen Shot 2021-11-09 at 7 51 18 PM](https://user-images.githubusercontent.com/31806435/141046691-6911e7f6-5670-436a-b96e-c9420cbc0283.png)
 
-**Part 5**
+![Screen Shot 2021-11-09 at 7 51 31 PM](https://user-images.githubusercontent.com/31806435/141046693-27dca1ff-133d-41b5-b3a5-648e39c1e65f.png)
 
-**Part 6**
+![Screen Shot 2021-11-09 at 7 51 51 PM](https://user-images.githubusercontent.com/31806435/141046699-7e25fc4b-401d-41e2-abb6-751017f9a43c.png)
 
+**Part 2: von Neumann-Morgenstern Utility**
 
-**Part 7**
+![Screen Shot 2021-11-09 at 7 54 49 PM](https://user-images.githubusercontent.com/31806435/141047033-85a7041a-ffcd-4612-b9a9-68c62f1f8717.png)
 
+![Screen Shot 2021-11-09 at 7 55 02 PM](https://user-images.githubusercontent.com/31806435/141047037-bd4a31eb-16b8-4ce8-be14-cfba6a341dc5.png)
+
+![Screen Shot 2021-11-09 at 7 55 17 PM](https://user-images.githubusercontent.com/31806435/141047042-b4c7f59f-4233-4bc3-a4e4-12437169b4ad.png)
+
+![Screen Shot 2021-11-09 at 7 55 27 PM](https://user-images.githubusercontent.com/31806435/141047047-1d6b0d59-01b5-4a34-9a63-01af580b498b.png)
+
+**Part 3: Attitudes Toward Risk: Risk Aversion, Risk Neutrality, Risk Taking**
+
+![Screen Shot 2021-11-09 at 7 56 47 PM](https://user-images.githubusercontent.com/31806435/141047216-61c6b0c1-d8ad-4365-9bf0-f4b969984066.png)
+
+![Screen Shot 2021-11-09 at 7 57 27 PM](https://user-images.githubusercontent.com/31806435/141047222-277d657e-3fa8-4ca4-9b7b-e27af63542ef.png)
+
+![Screen Shot 2021-11-09 at 7 57 40 PM](https://user-images.githubusercontent.com/31806435/141047225-c0d3399d-bc18-44f8-94bc-b41291f6e58c.png)
+
+![Screen Shot 2021-11-09 at 7 57 52 PM](https://user-images.githubusercontent.com/31806435/141047227-6ae1a658-af6a-4783-92b4-49ddb30b5169.png)
+
+**Part 4: Insurance**
+
+![Screen Shot 2021-11-09 at 8 07 33 PM](https://user-images.githubusercontent.com/31806435/141048083-a0f1c83e-4641-4a66-a796-b232402e006c.png)
+
+![Screen Shot 2021-11-09 at 8 07 47 PM](https://user-images.githubusercontent.com/31806435/141048085-1b2e210c-ca5e-4d2e-90bd-0dc0192662db.png)
+
+![Screen Shot 2021-11-09 at 8 08 23 PM](https://user-images.githubusercontent.com/31806435/141048091-c58e3299-d42a-4d58-8a5c-2c1000b7b2c2.png)
+
+![Screen Shot 2021-11-09 at 8 08 52 PM](https://user-images.githubusercontent.com/31806435/141048095-99ed1ea4-1ab4-46d5-998c-755a9cb0eacd.png)
+
+**Part 5: Measure of Risk Aversion**
+
+![Screen Shot 2021-11-09 at 8 10 02 PM](https://user-images.githubusercontent.com/31806435/141048240-3138d4c8-8dbe-418b-b63d-c5c5ac05e6ee.png)
+
+![Screen Shot 2021-11-09 at 8 10 15 PM](https://user-images.githubusercontent.com/31806435/141048244-e36203b7-5b22-4c87-92b5-10a3543b3869.png)
+
+![Screen Shot 2021-11-09 at 8 10 33 PM](https://user-images.githubusercontent.com/31806435/141048253-03eadf91-36a5-4bac-b6a2-bc88694a780d.png)
+
+![Screen Shot 2021-11-09 at 8 10 43 PM](https://user-images.githubusercontent.com/31806435/141048257-a63070a7-e4e5-41b1-b7b7-3e2eb44aca46.png)
+
+![Screen Shot 2021-11-09 at 8 10 56 PM](https://user-images.githubusercontent.com/31806435/141048260-c833faef-0e82-4dc9-9868-15c485fa030f.png)
+
+**Part 6: Numerical Example for Intuition**
+
+![Screen Shot 2021-11-09 at 8 13 25 PM](https://user-images.githubusercontent.com/31806435/141048700-c63743d3-0221-4941-9c8f-a0b4f06692b5.png)
+
+![Screen Shot 2021-11-09 at 8 13 45 PM](https://user-images.githubusercontent.com/31806435/141048703-f805b509-9000-48f5-863e-68c013c99f85.png)
+
+![Screen Shot 2021-11-09 at 8 15 03 PM](https://user-images.githubusercontent.com/31806435/141048708-9936aa8a-ee70-48e5-8b02-415509f78c15.png)
+
+![Screen Shot 2021-11-09 at 8 15 38 PM](https://user-images.githubusercontent.com/31806435/141048713-1e6a5be8-de87-4482-a3bb-a441d72c6ba2.png)
+
+**Part 7: Portfolio Choice**
+
+![Screen Shot 2021-11-09 at 8 17 28 PM](https://user-images.githubusercontent.com/31806435/141048837-70e9264f-8b2e-40df-8e27-fbf5dadca219.png)
+
+![Screen Shot 2021-11-09 at 8 17 46 PM](https://user-images.githubusercontent.com/31806435/141048842-a92abede-8572-41e5-9963-0dc53b5ac09d.png)
+
+![Screen Shot 2021-11-09 at 8 17 59 PM](https://user-images.githubusercontent.com/31806435/141048846-2c7977f9-4b4d-4b44-ad0d-893d173a68be.png)
 
 ---
 
