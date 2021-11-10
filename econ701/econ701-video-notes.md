@@ -383,13 +383,13 @@
 
 ### Chapter 6: Demand Relationships Among Goods
 
-![Screen Shot 2021-11-08 at 9 13 55 PM](https://user-images.githubusercontent.com/31806435/140866673-e4b6ce01-d935-4dde-8633-94836ab5c534.png)
+![Screen Shot 2021-11-09 at 7 45 35 PM](https://user-images.githubusercontent.com/31806435/141046286-2d450a83-5834-4756-bd77-7ae470e9d861.png)
 
-![Screen Shot 2021-11-08 at 9 14 10 PM](https://user-images.githubusercontent.com/31806435/140866677-c5de7cc4-5156-4f53-87e2-01997382e16a.png)
+![Screen Shot 2021-11-09 at 7 45 58 PM](https://user-images.githubusercontent.com/31806435/141046292-950f0022-714b-4dc3-b11f-553ea836c0ef.png)
 
-![Screen Shot 2021-11-08 at 9 14 50 PM](https://user-images.githubusercontent.com/31806435/140866684-f5e3ccea-28d9-4520-a8cf-c2c8078b73b9.png)
+![Screen Shot 2021-11-09 at 7 46 43 PM](https://user-images.githubusercontent.com/31806435/141046300-924600b4-80bd-49c4-8a72-b7148b391350.png)
 
-![Screen Shot 2021-11-08 at 9 15 18 PM](https://user-images.githubusercontent.com/31806435/140866695-6db6d93f-dfe0-4697-86ee-b17b864fb2cb.png)
+![Screen Shot 2021-11-09 at 7 47 02 PM](https://user-images.githubusercontent.com/31806435/141046306-6e74c7d1-fbc5-496e-8038-8348b76cc01b.png)
 
 ---
 
@@ -397,75 +397,19 @@
 
 **Part 1**
 
-![Screen Shot 2021-11-08 at 9 17 47 PM (1)](https://user-images.githubusercontent.com/31806435/140867366-03fbb576-274a-4277-aa0e-48b6b824e64b.png)
-
-![Screen Shot 2021-11-08 at 9 18 03 PM](https://user-images.githubusercontent.com/31806435/140866951-7a7dafea-e143-42fa-8914-7adac5e77db9.png)
-
-![Screen Shot 2021-11-08 at 9 18 28 PM](https://user-images.githubusercontent.com/31806435/140866958-47c2f6a6-1451-4d08-af1b-cb2a397e830b.png)
-
-![Screen Shot 2021-11-08 at 9 18 48 PM](https://user-images.githubusercontent.com/31806435/140866964-f78f6dcd-7eac-4cae-ae2d-78fae0d25961.png)
-
 **Part 2**
-
-![Screen Shot 2021-11-08 at 9 23 57 PM](https://user-images.githubusercontent.com/31806435/140867490-43327db3-b507-4822-a55e-d4f6d17f6a59.png)
-
-![Screen Shot 2021-11-08 at 9 24 22 PM](https://user-images.githubusercontent.com/31806435/140867492-abc546fe-284f-4ae8-8bd0-6fc9dbce4c92.png)
-
-![Screen Shot 2021-11-08 at 9 24 38 PM](https://user-images.githubusercontent.com/31806435/140867498-e27039c4-bf6d-4ed7-973f-f53dbbd38a5c.png)
-
-![Screen Shot 2021-11-08 at 9 24 56 PM](https://user-images.githubusercontent.com/31806435/140867505-37c6f245-2a21-4ee0-8cc6-cf7bcde01ffa.png)
 
 **Part 3**
 
-![Screen Shot 2021-11-08 at 9 26 01 PM](https://user-images.githubusercontent.com/31806435/140867659-3afd3f47-f845-44d5-bc03-3b8ee26182b5.png)
-
-![Screen Shot 2021-11-08 at 9 26 38 PM](https://user-images.githubusercontent.com/31806435/140867669-e9364f87-3813-4de5-99e3-e86cb16da8f3.png)
-
-![Screen Shot 2021-11-08 at 9 27 02 PM](https://user-images.githubusercontent.com/31806435/140867674-f28c3f70-bbf3-4a0e-99a0-4e67eb6e1f9e.png)
-
-![Screen Shot 2021-11-08 at 9 27 14 PM](https://user-images.githubusercontent.com/31806435/140867676-268970a3-7072-40c2-9f06-436abeeebb3f.png)
-
 **Part 4**
-
-![Screen Shot 2021-11-08 at 9 28 12 PM (1)](https://user-images.githubusercontent.com/31806435/140867913-e1aa9e0a-66d0-45e6-83aa-9050817d9581.png)
-
-![Screen Shot 2021-11-08 at 9 28 41 PM](https://user-images.githubusercontent.com/31806435/140867918-e6036cb9-eb9e-4837-91e3-cdde0a866e3d.png)
-
-![Screen Shot 2021-11-08 at 9 28 54 PM](https://user-images.githubusercontent.com/31806435/140867926-fc96c0f3-40b3-4360-9975-cffdd4cdbe80.png)
-
-![Screen Shot 2021-11-08 at 9 29 18 PM](https://user-images.githubusercontent.com/31806435/140867934-cfbe396a-99e2-4e28-a049-d3904eeb40f4.png)
-
-![Screen Shot 2021-11-08 at 9 29 36 PM](https://user-images.githubusercontent.com/31806435/140867944-537033f3-6221-470d-b206-e5c759adc8fa.png)
 
 **Part 5**
 
-![Screen Shot 2021-11-08 at 9 32 25 PM](https://user-images.githubusercontent.com/31806435/140868322-c7686c5d-c171-463e-8e31-8cc271289ad8.png)
-
-![Screen Shot 2021-11-08 at 9 32 36 PM](https://user-images.githubusercontent.com/31806435/140868326-5f4b1245-4ab0-4663-b9df-e44c4d8a0e0b.png)
-
-![Screen Shot 2021-11-08 at 9 32 55 PM (1)](https://user-images.githubusercontent.com/31806435/140868330-3fd5e656-e712-4872-b2f2-2134e45f1cce.png)
-
-![Screen Shot 2021-11-08 at 9 33 14 PM](https://user-images.githubusercontent.com/31806435/140868336-dc8bb19f-bd5d-4633-8d5a-02334c4d6e9d.png)
-
-![Screen Shot 2021-11-08 at 9 33 25 PM](https://user-images.githubusercontent.com/31806435/140868341-f3ca5692-a719-44af-9e05-fc8d62d612dd.png)
-
 **Part 6**
 
-![Screen Shot 2021-11-08 at 9 36 30 PM](https://user-images.githubusercontent.com/31806435/140868582-90ee1811-4426-4f75-af65-92557b2eb3ab.png)
-
-![Screen Shot 2021-11-08 at 9 36 38 PM](https://user-images.githubusercontent.com/31806435/140868591-a361dcf4-0ce5-4a73-a5fd-6f8326ac13bc.png)
-
-![Screen Shot 2021-11-08 at 9 36 52 PM](https://user-images.githubusercontent.com/31806435/140868595-24b612a6-23a9-4213-ae12-b993f88c4802.png)
-
-![Screen Shot 2021-11-08 at 9 37 29 PM](https://user-images.githubusercontent.com/31806435/140868600-ab2a0389-c2d8-4874-a3ab-310b231c4aa1.png)
 
 **Part 7**
 
-![Screen Shot 2021-11-08 at 9 38 19 PM](https://user-images.githubusercontent.com/31806435/140868711-d474c5dd-eb70-4082-b5c8-8ab39c9298d6.png)
-
-![Screen Shot 2021-11-08 at 9 38 36 PM](https://user-images.githubusercontent.com/31806435/140868715-a659092c-10ea-47b9-8b27-8e337cc00cdc.png)
-
-![Screen Shot 2021-11-08 at 9 38 48 PM](https://user-images.githubusercontent.com/31806435/140868723-c7554a7c-515f-49c7-8e99-6d90058160e0.png)
 
 ---
 
