@@ -189,19 +189,19 @@
 
 **Part 2: Demand Functions**
 
-![Screen Shot 2021-11-07 at 6 30 53 PM](https://user-images.githubusercontent.com/31806435/140675360-32c8d332-6929-4152-ac11-83680cafa18e.png)
+![Screen Shot 2021-11-09 at 6 32 09 PM](https://user-images.githubusercontent.com/31806435/141039235-49497039-50f3-4b86-b900-e0721327fc2b.png)
 
-![Screen Shot 2021-11-07 at 6 31 13 PM](https://user-images.githubusercontent.com/31806435/140675368-82f5693b-3e8b-48c5-81df-212ee01944f1.png)
+![Screen Shot 2021-11-09 at 6 32 29 PM](https://user-images.githubusercontent.com/31806435/141039244-9f4336c2-6821-45f3-9fa9-315b1f269819.png)
 
-![Screen Shot 2021-11-07 at 6 31 55 PM](https://user-images.githubusercontent.com/31806435/140675374-afbc22d3-8a1f-4568-bc7f-b4024fef9a56.png)
+![Screen Shot 2021-11-09 at 6 33 45 PM](https://user-images.githubusercontent.com/31806435/141039248-9f69158a-5937-4233-9169-ec78790e8c9e.png)
 
-![Screen Shot 2021-11-07 at 6 32 14 PM](https://user-images.githubusercontent.com/31806435/140675378-5cb25e41-a75f-48e2-90bc-798f3d9b766d.png)
+![Screen Shot 2021-11-09 at 6 34 02 PM](https://user-images.githubusercontent.com/31806435/141039253-7ccc780d-09b6-479c-bc4d-bf2497835838.png)
 
-![Screen Shot 2021-11-07 at 6 32 47 PM](https://user-images.githubusercontent.com/31806435/140675384-b965f9d5-a1dc-480d-8676-e0f8eb02055e.png)
+![Screen Shot 2021-11-09 at 6 34 24 PM](https://user-images.githubusercontent.com/31806435/141039260-ac152932-e306-448d-8488-b70cbd12a6a9.png)
 
-![Screen Shot 2021-11-07 at 6 33 02 PM](https://user-images.githubusercontent.com/31806435/140675392-e39b2599-c323-4c01-9193-ff84606edd1e.png)
+![Screen Shot 2021-11-09 at 6 34 42 PM](https://user-images.githubusercontent.com/31806435/141039269-7bda2583-cac8-490b-bc33-d41d495dc1d5.png)
 
-![Screen Shot 2021-11-07 at 6 33 18 PM](https://user-images.githubusercontent.com/31806435/140675395-0841e882-bea0-4201-a9c5-91decb93f8fa.png)
+![Screen Shot 2021-11-09 at 6 35 04 PM](https://user-images.githubusercontent.com/31806435/141039276-082eada2-4ca2-4461-922a-255ec85622f8.png)
 
 **Part 3**
 
