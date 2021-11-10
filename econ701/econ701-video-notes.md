@@ -38,6 +38,12 @@
     * 1: Marginal Physical Product, Average Product, Marginal Rate of Technical Substitution, Returns to Scale
     * 2: Homothetic Production Functions, Elasticity of Substitution, Some Specific Production Functions
 13. [Chapter 10: Cost Functions](#Chapter-10-Cost-Functions)
+    * 1: Cost Minimization
+    * 2: Deriving the Cost Function
+    * 2: (continued) Deriving the Cost Function, AC, MC, Properties, Sherperd's Lemma, and Contingent Demand
+    * 3: Short Run Costs
+    * 4: Short Run Costs vs Long Run Costs (graphical)
+14. [Chapter 11: Profit Maximization])(Chapter-11-Profit-Maximization)
 
 ---
 
@@ -507,22 +513,83 @@
 
 ![Screen Shot 2021-11-09 at 8 31 21 PM](https://user-images.githubusercontent.com/31806435/141050142-a5b60029-15f0-4ab4-abe9-8fc5d5bf9df6.png)
 
-
 ---
 
 ### Chapter 10: Cost Functions
 
-**Part 1
+**Part 1: Cost Minimization**
 
-**Part 2
+![Screen Shot 2021-11-09 at 8 35 38 PM](https://user-images.githubusercontent.com/31806435/141050649-fe2e32be-552b-4818-8c68-c6de69e9e51d.png)
 
-**Part 2
+![Screen Shot 2021-11-09 at 8 35 47 PM](https://user-images.githubusercontent.com/31806435/141050656-45a6f575-1978-422f-b763-aaa0e4cf4e5f.png)
 
-**Part 3
+![Screen Shot 2021-11-09 at 8 36 00 PM](https://user-images.githubusercontent.com/31806435/141050663-ffa60cad-7e94-4d5c-b68a-d09baf5bb1a9.png)
 
-**Part 4
+![Screen Shot 2021-11-09 at 8 36 55 PM](https://user-images.githubusercontent.com/31806435/141050667-158e6746-b6ce-4a06-acac-115367c13ec9.png)
 
+![Screen Shot 2021-11-09 at 8 37 09 PM](https://user-images.githubusercontent.com/31806435/141050676-8035994c-5ba7-4ca5-8722-e90acbcabe80.png)
 
+![Screen Shot 2021-11-09 at 8 37 22 PM](https://user-images.githubusercontent.com/31806435/141050678-a71891be-7472-48a8-bd43-ea151a2604e5.png)
+
+**Part 2: Deriving the Cost Function**
+
+![Screen Shot 2021-11-09 at 8 39 13 PM](https://user-images.githubusercontent.com/31806435/141050893-22fe86e8-b926-4b27-92e3-afff8771d840.png)
+
+![Screen Shot 2021-11-09 at 8 39 34 PM](https://user-images.githubusercontent.com/31806435/141050898-cc68f098-8e21-4134-85f4-94fa86b34c96.png)
+
+![Screen Shot 2021-11-09 at 8 39 51 PM](https://user-images.githubusercontent.com/31806435/141050903-650340b6-dad7-488e-b2fc-2f847af358cd.png)
+
+![Screen Shot 2021-11-09 at 8 40 10 PM](https://user-images.githubusercontent.com/31806435/141050906-975eb555-dab1-41a7-83be-f722a7e78142.png)
+
+**Part 2: (continued) Deriving the Cost Function, AC, MC, Properties, Sherperd's Lemma, and Contingent Demand**
+
+![Screen Shot 2021-11-09 at 8 43 10 PM](https://user-images.githubusercontent.com/31806435/141051417-62467fac-f1a1-499c-968b-25c1585ae76f.png)
+
+![Screen Shot 2021-11-09 at 8 43 47 PM](https://user-images.githubusercontent.com/31806435/141051424-8b7dcdd2-c428-4331-a490-c48dfb4f6e9f.png)
+
+![Screen Shot 2021-11-09 at 8 44 12 PM](https://user-images.githubusercontent.com/31806435/141051425-bc82787b-5a74-46d0-91ab-f871617b52ff.png)
+
+![Screen Shot 2021-11-09 at 8 44 26 PM](https://user-images.githubusercontent.com/31806435/141051430-aff71225-e716-4448-9f8b-e63bdfa75cf7.png)
+
+![Screen Shot 2021-11-09 at 8 44 35 PM](https://user-images.githubusercontent.com/31806435/141051432-1c256c2c-20fb-4244-818f-433e0cb5d2f6.png)
+
+![Screen Shot 2021-11-09 at 8 44 45 PM](https://user-images.githubusercontent.com/31806435/141051438-2bf1c2b0-4a0f-426d-a484-a03b43fb8f2a.png)
+
+![Screen Shot 2021-11-09 at 8 45 04 PM](https://user-images.githubusercontent.com/31806435/141051443-02148efc-3c4c-49f5-8e72-1a7e2e566ed8.png)
+
+![Screen Shot 2021-11-09 at 8 45 55 PM](https://user-images.githubusercontent.com/31806435/141051445-c58bf5d4-c8ec-4036-9e39-b2d7589ac645.png)
+
+**Part 3: Short Run Costs**
+
+![Screen Shot 2021-11-09 at 8 47 15 PM](https://user-images.githubusercontent.com/31806435/141051827-0ed93ee4-adcc-4d6d-8dc2-a6582d8e4fd7.png)
+
+![Screen Shot 2021-11-09 at 8 47 41 PM](https://user-images.githubusercontent.com/31806435/141051831-106ecd9b-9d73-4d13-8b0b-abaefb70e506.png)
+
+![Screen Shot 2021-11-09 at 8 47 52 PM](https://user-images.githubusercontent.com/31806435/141051835-5253a238-d9e1-44fd-b526-00e4dc0734ef.png)
+
+![Screen Shot 2021-11-09 at 8 48 07 PM](https://user-images.githubusercontent.com/31806435/141051841-f60fb05e-e603-4083-b536-1206494efe5b.png)
+
+![Screen Shot 2021-11-09 at 8 48 27 PM](https://user-images.githubusercontent.com/31806435/141051844-4e5ffe36-a9df-4dcb-a9ce-fb7088b9d367.png)
+
+![Screen Shot 2021-11-09 at 8 48 52 PM](https://user-images.githubusercontent.com/31806435/141051846-776cfc35-8e6d-43e6-b622-0c4e60d71990.png)
+
+![Screen Shot 2021-11-09 at 8 49 08 PM](https://user-images.githubusercontent.com/31806435/141051851-a2f03bb1-2e67-4908-95b5-f43c1413314b.png)
+
+![Screen Shot 2021-11-09 at 8 49 46 PM](https://user-images.githubusercontent.com/31806435/141051859-2cdb7bf2-a397-43dd-8615-89ef42310f7a.png)
+
+![Screen Shot 2021-11-09 at 8 50 07 PM](https://user-images.githubusercontent.com/31806435/141051866-614e0fe4-202e-4a13-8477-67708b8d8265.png)
+
+**Part 4: Short Run Costs vs Long Run Costs (graphical)**
+
+![Screen Shot 2021-11-09 at 8 51 52 PM](https://user-images.githubusercontent.com/31806435/141052018-9c7b9749-ea65-41ca-ad7f-97cda09a4336.png)
+
+![Screen Shot 2021-11-09 at 8 52 04 PM](https://user-images.githubusercontent.com/31806435/141052023-abfbf8f1-445b-42a0-a542-ff84af6729a3.png)
+
+![Screen Shot 2021-11-09 at 8 52 24 PM](https://user-images.githubusercontent.com/31806435/141052027-acfb8af3-c33e-4cf4-b448-5a278292e935.png)
+
+---
+
+### Chapter 11: Profit Maximization
 
 
 
