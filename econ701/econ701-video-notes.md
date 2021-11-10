@@ -10,10 +10,12 @@
    * 2: Indifference curves, Marginal Rates of Substitution
    * 3: Some Specific Functional Forms of Utility
 5. [Chapter 4: Utility Maximization and Choice](#Chapter-4-Utility-Maximization-and-Choice)
-6. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
-7. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
-8. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
-9. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
+   * 1: Utility Maximization
+   * 2: Demand Functions
+7. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
+8. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
+9. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
+10. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
 
 ---
 
@@ -165,7 +167,7 @@
 
 ### Chapter 4: Utility Maximization and Choice
 
-**Part 1**
+**Part 1: Utility Maximization**
 
 ![Screen Shot 2021-11-07 at 6 10 05 PM](https://user-images.githubusercontent.com/31806435/140674427-67d18098-ecfa-4340-9f6c-1f9415ea63e4.png)
 
@@ -185,7 +187,7 @@
 
 ![Screen Shot 2021-11-07 at 6 19 30 PM](https://user-images.githubusercontent.com/31806435/140674482-c5f5372c-e396-4304-bcf6-4bc5362d453c.png)
 
-**Part 2**
+**Part 2: Demand Functions**
 
 ![Screen Shot 2021-11-07 at 6 30 53 PM](https://user-images.githubusercontent.com/31806435/140675360-32c8d332-6929-4152-ac11-83680cafa18e.png)
 
