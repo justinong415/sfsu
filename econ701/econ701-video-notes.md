@@ -15,9 +15,11 @@
    * 3: Indirect Utility Function, Lump Sum Principle
    * 4: The Consumer's Dual Problem: Expenditure Minimization and the Expenditure Function
 7. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
-8. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
-9. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
-10. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
+   * 1: Changes in Income, Changes in Price
+   * 2: Substition and Income Effects (Graphical)
+9. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
+10. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
+11. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
 
 ---
 
@@ -239,19 +241,19 @@
 
 ### Chapter 5: Income and Substitution Effects
 
-**Part 1**
+**Part 1: Changes in Income, Changes in Price**
 
-![Screen Shot 2021-11-07 at 9 02 14 PM](https://user-images.githubusercontent.com/31806435/140687010-3191bad1-42ba-4e85-b0a4-dbd37de39d18.png)
+![Screen Shot 2021-11-09 at 6 51 49 PM](https://user-images.githubusercontent.com/31806435/141040949-5a1919ee-3c76-4afb-9739-56e48129024d.png)
 
-![Screen Shot 2021-11-07 at 9 02 45 PM](https://user-images.githubusercontent.com/31806435/140687013-b7e0c58d-8811-4fd6-b46e-c6825a78d76a.png)
+![Screen Shot 2021-11-09 at 6 52 05 PM](https://user-images.githubusercontent.com/31806435/141040955-22032e60-85ee-4240-a046-73530f468f38.png)
 
-![Screen Shot 2021-11-07 at 9 03 02 PM](https://user-images.githubusercontent.com/31806435/140687018-fdafeba5-8a12-41cd-9d4a-ef46b225edb3.png)
+![Screen Shot 2021-11-09 at 6 52 17 PM](https://user-images.githubusercontent.com/31806435/141040962-589dcf58-46f1-42f0-bf58-b93e1df46837.png)
 
-![Screen Shot 2021-11-07 at 9 03 22 PM](https://user-images.githubusercontent.com/31806435/140687022-8966fd86-4919-45fe-ba4c-aaecdf4c4f41.png)
+![Screen Shot 2021-11-09 at 6 52 35 PM](https://user-images.githubusercontent.com/31806435/141040964-5b867fff-46ef-4053-b3db-bee3cb01b255.png)
 
-![Screen Shot 2021-11-07 at 9 03 37 PM](https://user-images.githubusercontent.com/31806435/140687026-b808e1d2-5157-43c2-bba5-1b3a08fde9ed.png)
+![Screen Shot 2021-11-09 at 6 52 50 PM](https://user-images.githubusercontent.com/31806435/141040971-efcf8d30-63d3-4258-95b3-d4ef38104851.png)
 
-**Part 2**
+**Part 2: Substition and Income Effects (Graphical)**
 
 ![Screen Shot 2021-11-07 at 9 04 54 PM](https://user-images.githubusercontent.com/31806435/140687288-bc180899-850b-4325-ba5e-377e18e41f0b.png)
 
