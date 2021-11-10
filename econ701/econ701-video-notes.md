@@ -13,6 +13,7 @@
    * 1: Utility Maximization
    * 2: Demand Functions
    * 3: Indirect Utility Function, Lump Sum Principle
+   * 4: The Consumer's Dual Problem: Expenditure Minimization and the Expenditure Function
 7. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
 8. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
 9. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
@@ -218,21 +219,21 @@
 
 ![Screen Shot 2021-11-07 at 6 49 16 PM](https://user-images.githubusercontent.com/31806435/140676571-13a09d91-ec9c-4381-96ff-84d04aba3fd1.png)
 
-**Part 4**
+**Part 4: The Consumer's Dual Problem: Expenditure Minimization and the Expenditure Function**
 
-![Screen Shot 2021-11-07 at 6 50 56 PM](https://user-images.githubusercontent.com/31806435/140676962-bbf61c51-0e39-4506-a1e9-1277d2bb50cf.png)
+![Screen Shot 2021-11-09 at 6 44 17 PM](https://user-images.githubusercontent.com/31806435/141040496-d2c29a30-0e5d-4e80-b1c6-7c10ad6321a1.png)
 
-![Screen Shot 2021-11-07 at 6 51 29 PM](https://user-images.githubusercontent.com/31806435/140676974-5d551a6d-81c3-43a2-8cec-c721ae7cb36d.png)
+![Screen Shot 2021-11-09 at 6 45 05 PM](https://user-images.githubusercontent.com/31806435/141040500-6b584560-e453-40c4-ab74-e50163a6acb6.png)
 
-![Screen Shot 2021-11-07 at 6 51 57 PM](https://user-images.githubusercontent.com/31806435/140676978-3b151c89-2f0f-423e-b91a-318122a67cc7.png)
+![Screen Shot 2021-11-09 at 6 46 11 PM](https://user-images.githubusercontent.com/31806435/141040503-834fc12e-a507-4f01-9097-e5267ee6e7f9.png)
 
-![Screen Shot 2021-11-07 at 6 52 13 PM](https://user-images.githubusercontent.com/31806435/140676981-c55725ba-4ed2-443a-ae53-c268cc3bf511.png)
+![Screen Shot 2021-11-09 at 6 46 40 PM](https://user-images.githubusercontent.com/31806435/141040508-ba432f25-ee15-4a5e-9f51-8ff85ba152f5.png)
 
-![Screen Shot 2021-11-07 at 6 52 48 PM](https://user-images.githubusercontent.com/31806435/140676988-183e62cd-0f35-480b-b07d-de9fbb82266d.png)
+![Screen Shot 2021-11-09 at 6 47 23 PM](https://user-images.githubusercontent.com/31806435/141040515-2a18ffcd-a030-4ac1-84e0-5e6a629b0e41.png)
 
-![Screen Shot 2021-11-07 at 6 53 45 PM](https://user-images.githubusercontent.com/31806435/140676995-71d94804-18aa-48b0-93f5-92ce0282b80a.png)
+![Screen Shot 2021-11-09 at 6 47 45 PM](https://user-images.githubusercontent.com/31806435/141040522-f5b90d96-b4c6-446e-aa81-dba09a3a94e7.png)
 
-![Screen Shot 2021-11-07 at 6 53 57 PM](https://user-images.githubusercontent.com/31806435/140676998-fa3d3e57-734c-4cab-8b41-769852c196fb.png)
+![Screen Shot 2021-11-09 at 6 48 00 PM](https://user-images.githubusercontent.com/31806435/141040528-ba7bcbb4-952d-4f76-b0b2-9365d7bdfe75.png)
 
 ---
 
