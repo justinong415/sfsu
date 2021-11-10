@@ -43,7 +43,11 @@
     * 2: (continued) Deriving the Cost Function, AC, MC, Properties, Sherperd's Lemma, and Contingent Demand
     * 3: Short Run Costs
     * 4: Short Run Costs vs Long Run Costs (graphical)
-14. [Chapter 11: Profit Maximization])(Chapter-11-Profit-Maximization)
+14. [Chapter 11: Profit Maximization](Chapter-11-Profit-Maximization)
+    * 1: Marginal Revenue, MR and Price Elasticity of Demand, Lerner Index (price-cost margin)
+    * 2: Short-Run Supply by a Price-Taking Competitive Firm, Short-Run Shutdown Decision, Deriving Short-Run Supply
+    * 3: Profit Functions, Hotelling's Lemma and Other Envelope Results, Producer Surplus
+    * 4: Other Envelope Results, Profit Maximization and Input Demand (Unconditional), Output and Substitution Effects
 
 ---
 
@@ -591,14 +595,61 @@
 
 ### Chapter 11: Profit Maximization
 
+**Part 1: Marginal Revenue, MR and Price Elasticity of Demand, Lerner Index (price-cost margin)**
 
+![Screen Shot 2021-11-09 at 8 55 07 PM](https://user-images.githubusercontent.com/31806435/141052489-1ba8371c-25f4-4390-8810-abca1b458505.png)
 
+![Screen Shot 2021-11-09 at 8 55 26 PM](https://user-images.githubusercontent.com/31806435/141052494-3125a065-5dbb-4388-9908-ede2158b5a2d.png)
 
+![Screen Shot 2021-11-09 at 8 55 48 PM](https://user-images.githubusercontent.com/31806435/141052496-841f8c90-6cc3-4487-83e9-6b1c707f069b.png)
 
+![Screen Shot 2021-11-09 at 8 55 58 PM](https://user-images.githubusercontent.com/31806435/141052501-02fad0d1-c53c-4ed1-ac44-822df2ed4919.png)
 
+![Screen Shot 2021-11-09 at 8 56 14 PM](https://user-images.githubusercontent.com/31806435/141052510-cc285f36-09ce-4a64-8a5d-dda41e102798.png)
 
+![Screen Shot 2021-11-09 at 8 56 36 PM](https://user-images.githubusercontent.com/31806435/141052516-8816dc3b-36d0-46e8-a0d5-a9b9c98e1854.png)
 
+![Screen Shot 2021-11-09 at 8 56 58 PM](https://user-images.githubusercontent.com/31806435/141052520-eee38abf-ffa4-4c80-bcf5-3793d4afd0a6.png)
 
+![Screen Shot 2021-11-09 at 8 57 18 PM](https://user-images.githubusercontent.com/31806435/141052526-2302ecd8-b09f-4e49-832e-b17037e717b3.png)
 
+**Part 2: Short-Run Supply by a Price-Taking Competitive Firm, Short-Run Shutdown Decision, Deriving Short-Run Supply**
 
+![Screen Shot 2021-11-09 at 9 01 05 PM](https://user-images.githubusercontent.com/31806435/141052999-853aa708-cacd-47bb-b18f-82e3fd90d09e.png)
+
+![Screen Shot 2021-11-09 at 9 01 38 PM](https://user-images.githubusercontent.com/31806435/141053006-596a9e82-601b-49bb-8bd9-dc037dd9d3ad.png)
+
+![Screen Shot 2021-11-09 at 9 01 53 PM](https://user-images.githubusercontent.com/31806435/141053010-7f99d292-a6d5-4f2b-a134-47c8234aac73.png)
+
+![Screen Shot 2021-11-09 at 9 02 17 PM](https://user-images.githubusercontent.com/31806435/141053015-e26ba718-43e3-431b-968c-1b7ad65f9f6c.png)
+
+![Screen Shot 2021-11-09 at 9 02 45 PM](https://user-images.githubusercontent.com/31806435/141053021-3faabecb-67e8-4742-9740-2ffc96be70b7.png)
+
+**Part 3: Profit Functions, Hotelling's Lemma and Other Envelope Results, Producer Surplus**
+
+![Screen Shot 2021-11-09 at 9 04 24 PM](https://user-images.githubusercontent.com/31806435/141053240-c147257e-e69f-4b8d-9675-58ee39e88f14.png)
+
+![Screen Shot 2021-11-09 at 9 04 36 PM](https://user-images.githubusercontent.com/31806435/141053244-6810f263-4c39-43e4-a9bb-06673f5866a9.png)
+
+![Screen Shot 2021-11-09 at 9 04 49 PM](https://user-images.githubusercontent.com/31806435/141053249-8f90962c-f59f-4b50-8b82-b5358556e932.png)
+
+![Screen Shot 2021-11-09 at 9 04 59 PM](https://user-images.githubusercontent.com/31806435/141053253-a2dad1b3-e1d1-4dec-8437-455f3cf64f09.png)
+
+![Screen Shot 2021-11-09 at 9 05 09 PM](https://user-images.githubusercontent.com/31806435/141053256-bed7a4ff-a654-407d-bed6-192b99d6cf6f.png)
+
+![Screen Shot 2021-11-09 at 9 05 23 PM](https://user-images.githubusercontent.com/31806435/141053262-0df40678-8e49-4b2e-8e98-1543f371af2f.png)
+
+**Part 4: Other Envelope Results, Profit Maximization and Input Demand (Unconditional), Output and Substitution Effects**
+
+![Screen Shot 2021-11-09 at 9 07 50 PM](https://user-images.githubusercontent.com/31806435/141053575-caf3414c-74b2-4a1a-9f58-4fd984a94356.png)
+
+![Screen Shot 2021-11-09 at 9 08 09 PM](https://user-images.githubusercontent.com/31806435/141053577-529d6bac-7a8c-4aa1-9d12-6b9345917e0d.png)
+
+![Screen Shot 2021-11-09 at 9 08 20 PM](https://user-images.githubusercontent.com/31806435/141053582-e9cfd36b-edd3-498b-9421-15f57f0f9fc6.png)
+
+![Screen Shot 2021-11-09 at 9 09 03 PM](https://user-images.githubusercontent.com/31806435/141053586-8653f92a-cbcd-4314-ad86-994ca6132b2f.png)
+
+![Screen Shot 2021-11-09 at 9 09 15 PM](https://user-images.githubusercontent.com/31806435/141053595-c3f5a115-89ff-47c0-9e61-aa60f9541890.png)
+
+![Screen Shot 2021-11-09 at 9 09 27 PM](https://user-images.githubusercontent.com/31806435/141053602-02a0843d-a50f-4388-94df-c29335cf08e7.png)
 
