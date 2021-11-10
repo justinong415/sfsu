@@ -12,6 +12,7 @@
 5. [Chapter 4: Utility Maximization and Choice](#Chapter-4-Utility-Maximization-and-Choice)
    * 1: Utility Maximization
    * 2: Demand Functions
+   * 3: Indirect Utility Function, Lump Sum Principle
 7. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
 8. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
 9. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
@@ -203,7 +204,7 @@
 
 ![Screen Shot 2021-11-09 at 6 35 04 PM](https://user-images.githubusercontent.com/31806435/141039276-082eada2-4ca2-4461-922a-255ec85622f8.png)
 
-**Part 3**
+**Part 3: Indirect Utility Function, Lump Sum Principle**
 
 ![Screen Shot 2021-11-07 at 6 43 04 PM](https://user-images.githubusercontent.com/31806435/140676548-8fb4a263-8004-4375-bea7-de2c5df1d00b.png)
 
