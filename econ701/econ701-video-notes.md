@@ -17,6 +17,14 @@
 7. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
    * 1: Changes in Income, Changes in Price
    * 2: Substition and Income Effects (Graphical)
+   * 3: Compensated and Uncompensated Demands
+   * 4: Income and Substitution Effects, The Slutsky Equation
+   * 5: The Slutsky Equation (example), Roy's Identity
+   * 6: Compensating Variation, Equivalent Variation
+   * 7: CV, EV, Consumer Surplus
+   * 8: Demand Elastics
+   * 9: More on Demand Elasticities
+   * 10: Revealed Preference, WARP
 9. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
 10. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
 11. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
@@ -267,7 +275,7 @@
 
 ![Screen Shot 2021-11-07 at 9 07 16 PM](https://user-images.githubusercontent.com/31806435/140687319-3f80b1f2-30d2-4413-aafd-53e28044e23f.png)
 
-**Part 3**
+**Part 3 Compensated and Uncompensated Demands**
 
 ![Screen Shot 2021-11-07 at 9 14 41 PM](https://user-images.githubusercontent.com/31806435/140687980-5b6b947e-82ab-4837-b5d3-a82674857611.png)
 
@@ -279,79 +287,77 @@
 
 ![Screen Shot 2021-11-07 at 9 16 07 PM](https://user-images.githubusercontent.com/31806435/140688006-3304c57f-f776-47c4-b7c8-b927d56f64d7.png)
 
-**Part 4**
+**Part 4: Income and Substitution Effects, The Slutsky Equation**
 
-![Screen Shot 2021-11-07 at 9 17 09 PM](https://user-images.githubusercontent.com/31806435/140688127-e5cbe6f7-3b59-45e1-b83f-293ec5407a1a.png)
+![Screen Shot 2021-11-09 at 6 56 22 PM](https://user-images.githubusercontent.com/31806435/141041352-044965ff-2ae6-4366-92d7-dc85d0c56f09.png)
 
-![Screen Shot 2021-11-07 at 9 17 25 PM](https://user-images.githubusercontent.com/31806435/140688144-e9457369-1acb-49bb-b497-b9121ba3c2a2.png)
+![Screen Shot 2021-11-09 at 6 56 44 PM](https://user-images.githubusercontent.com/31806435/141041356-72f368ee-2153-4241-a8be-cff2b612e53f.png)
 
-![Screen Shot 2021-11-07 at 9 17 49 PM](https://user-images.githubusercontent.com/31806435/140688149-9864ba6a-deab-48c6-aafd-bd9c09a0f7b3.png)
+![Screen Shot 2021-11-09 at 6 56 59 PM](https://user-images.githubusercontent.com/31806435/141041370-dcdf097c-0271-4f99-9265-d89d6401af52.png)
 
-**Part 5**
+**Part 5: The Slutsky Equation (example), Roy's Identity**
 
-![Screen Shot 2021-11-07 at 9 21 58 PM](https://user-images.githubusercontent.com/31806435/140688784-e890772a-41dc-4dc2-9bc4-a972a965198b.png)
+![Screen Shot 2021-11-09 at 6 58 57 PM](https://user-images.githubusercontent.com/31806435/141041685-6b04eb86-bd3b-42eb-99e1-9b718d87f67e.png)
 
-![Screen Shot 2021-11-07 at 9 22 42 PM](https://user-images.githubusercontent.com/31806435/140688787-2334fccb-9782-46aa-a3e2-2a7a76cfbb53.png)
+![Screen Shot 2021-11-09 at 6 59 11 PM](https://user-images.githubusercontent.com/31806435/141041691-a158ef6f-516a-4eb1-8ef4-6e2bb12b9f8f.png)
 
-![Screen Shot 2021-11-07 at 9 22 53 PM](https://user-images.githubusercontent.com/31806435/140688796-7ec8241c-97fa-44ed-a474-3c801ff8c44e.png)
+![Screen Shot 2021-11-09 at 6 59 23 PM](https://user-images.githubusercontent.com/31806435/141041694-e15f1a3e-af96-4e69-996e-31ee2aeda974.png)
 
-![Screen Shot 2021-11-07 at 9 23 13 PM](https://user-images.githubusercontent.com/31806435/140688803-a6915ab8-bbf2-400a-95a6-64b4f1e6f12e.png)
+![Screen Shot 2021-11-09 at 6 59 39 PM](https://user-images.githubusercontent.com/31806435/141041698-00c0161c-6666-46e3-b6ef-9aa1b6de88c0.png)
 
-![Screen Shot 2021-11-07 at 9 23 22 PM](https://user-images.githubusercontent.com/31806435/140688807-37bd478a-c979-4116-b4d6-15d534ddc6b8.png)
+![Screen Shot 2021-11-09 at 7 00 06 PM](https://user-images.githubusercontent.com/31806435/141041701-be321a11-3f96-427f-b57b-60f628459981.png)
 
-![Screen Shot 2021-11-07 at 9 23 31 PM](https://user-images.githubusercontent.com/31806435/140688811-e24b8135-bee9-4d44-a55f-c202b47432dc.png)
+![Screen Shot 2021-11-09 at 7 00 18 PM](https://user-images.githubusercontent.com/31806435/141041704-34f62fbd-6331-49bb-b2e5-770c60afcf1b.png)
 
-**Part 6**
+**Part 6: Compensating Variation, Equivalent Variation**
 
-![Screen Shot 2021-11-08 at 8 50 11 PM](https://user-images.githubusercontent.com/31806435/140864435-aa1b4552-f3b3-4025-86e6-b45e76f0b802.png)
+![Screen Shot 2021-11-09 at 7 02 58 PM](https://user-images.githubusercontent.com/31806435/141042089-d597c417-0982-4dfe-800c-39ae21d3c550.png)
 
-![Screen Shot 2021-11-08 at 8 50 27 PM](https://user-images.githubusercontent.com/31806435/140864440-870a9529-80ff-4e1e-902e-eec5faf49eaf.png)
+![Screen Shot 2021-11-09 at 7 03 30 PM](https://user-images.githubusercontent.com/31806435/141042095-41e60a28-61a8-4816-b7de-9c0924ed1be8.png)
 
-![Screen Shot 2021-11-08 at 8 50 48 PM](https://user-images.githubusercontent.com/31806435/140864444-2690c1dc-4434-4a70-a2cb-e26e72e431cc.png)
+![Screen Shot 2021-11-09 at 7 03 43 PM](https://user-images.githubusercontent.com/31806435/141042104-d816e410-bbaa-44b5-abab-0a0355726a9b.png)
 
-![Screen Shot 2021-11-08 at 8 51 10 PM](https://user-images.githubusercontent.com/31806435/140864456-8e08335e-8c3e-4d99-9938-141ee1cbe7d9.png)
+![Screen Shot 2021-11-09 at 7 04 03 PM](https://user-images.githubusercontent.com/31806435/141042111-a1128fe7-c6b6-46a0-b014-1b103ac19c3f.png)
 
-![Screen Shot 2021-11-08 at 8 51 21 PM](https://user-images.githubusercontent.com/31806435/140864464-fe2cea2f-3d69-409a-8940-bcd4bc59b142.png)
+**Part 7: CV, EV, Consumer Surplus**
 
-**Part 7**
+![Screen Shot 2021-11-09 at 7 05 34 PM](https://user-images.githubusercontent.com/31806435/141042426-94ad725b-4355-485c-a0ff-900e9d536908.png)
 
-![Screen Shot 2021-11-08 at 8 52 08 PM](https://user-images.githubusercontent.com/31806435/140864750-382791a8-ecfc-4376-b39f-725aaf1ee161.png)
+![Screen Shot 2021-11-09 at 7 05 43 PM](https://user-images.githubusercontent.com/31806435/141042432-365f6e0d-c9fb-4e6b-9b32-2cc7b111869d.png)
 
-![Screen Shot 2021-11-08 at 8 52 16 PM](https://user-images.githubusercontent.com/31806435/140864762-5f56e748-cba8-410a-82d0-18fb4807bca9.png)
+![Screen Shot 2021-11-09 at 7 06 00 PM](https://user-images.githubusercontent.com/31806435/141042434-b0442b19-e35b-4da1-904a-9cc24aafcef7.png)
 
-![Screen Shot 2021-11-08 at 8 52 33 PM](https://user-images.githubusercontent.com/31806435/140864767-3c4e488b-ef5b-48cb-afe0-8a6ecdba124d.png)
+![Screen Shot 2021-11-09 at 7 06 11 PM](https://user-images.githubusercontent.com/31806435/141042440-b1e559b8-ff44-482b-a7b6-8c8fb991e442.png)
 
-![Screen Shot 2021-11-08 at 8 52 44 PM](https://user-images.githubusercontent.com/31806435/140864774-f31cfd7b-e3c1-4da6-b2e4-a044febdf320.png)
+![Screen Shot 2021-11-09 at 7 06 23 PM](https://user-images.githubusercontent.com/31806435/141042445-b75ee789-a434-4ab2-bf21-209cd5790977.png)
 
-![Screen Shot 2021-11-08 at 8 53 22 PM](https://user-images.githubusercontent.com/31806435/140864780-3bfceb5a-7e78-4915-9862-ff0c3e9e821e.png)
+![Screen Shot 2021-11-09 at 7 07 15 PM](https://user-images.githubusercontent.com/31806435/141042448-bee6d583-5e81-4002-95cc-6803e5ceb69a.png)
 
-![Screen Shot 2021-11-08 at 8 53 41 PM (1)](https://user-images.githubusercontent.com/31806435/140864785-56f6cd65-2608-4835-a0e9-c50509290b56.png)
+**Part 8: Demand Elastics**
 
-**Part 8**
+![Screen Shot 2021-11-09 at 7 08 51 PM](https://user-images.githubusercontent.com/31806435/141042721-f28fab49-68b0-46fc-a237-b56f96386a00.png)
 
-![Screen Shot 2021-11-08 at 8 55 23 PM](https://user-images.githubusercontent.com/31806435/140865116-381d87ec-4654-4d82-9dce-8b3646da7983.png)
+![Screen Shot 2021-11-09 at 7 09 02 PM](https://user-images.githubusercontent.com/31806435/141042726-4a823f9d-2cb1-4e0d-954f-37f2fb446ab9.png)
 
-![Screen Shot 2021-11-08 at 8 55 33 PM](https://user-images.githubusercontent.com/31806435/140865121-72473959-adf0-4453-9d4e-a2d436a5a160.png)
+![Screen Shot 2021-11-09 at 7 09 19 PM](https://user-images.githubusercontent.com/31806435/141042728-8fe0639b-4f52-442c-9f7c-a6d1dae45f5a.png)
 
-![Screen Shot 2021-11-08 at 8 55 44 PM](https://user-images.githubusercontent.com/31806435/140865123-6110462d-c175-4828-bb7b-06f0ccaeb503.png)
+![Screen Shot 2021-11-09 at 7 09 28 PM](https://user-images.githubusercontent.com/31806435/141042731-5060dfb3-a33d-4aeb-9244-8c6fd80dbc20.png)
 
-![Screen Shot 2021-11-08 at 8 56 06 PM](https://user-images.githubusercontent.com/31806435/140865128-6e889b09-21f2-4763-945f-e5ec5776179d.png)
+![Screen Shot 2021-11-09 at 7 09 36 PM](https://user-images.githubusercontent.com/31806435/141042736-005e94e1-9bf1-49ad-ac5c-32a4b012f5c1.png)
 
-![Screen Shot 2021-11-08 at 8 56 20 PM](https://user-images.githubusercontent.com/31806435/140865132-43416fa2-8bed-45ac-b971-49238b9d7c33.png)
+![Screen Shot 2021-11-09 at 7 09 47 PM](https://user-images.githubusercontent.com/31806435/141042739-1547b8d6-1ac5-4e7d-b415-d67a19d781b5.png)
 
-![Screen Shot 2021-11-08 at 8 56 30 PM](https://user-images.githubusercontent.com/31806435/140865136-3986327f-dec3-4132-bfdf-8c0096c8cd5c.png)
+![Screen Shot 2021-11-09 at 7 10 03 PM](https://user-images.githubusercontent.com/31806435/141042742-d32ea2db-d513-4366-bdde-ae13534c2a2b.png)
 
-![Screen Shot 2021-11-08 at 8 56 48 PM (1)](https://user-images.githubusercontent.com/31806435/140865141-7d569281-407f-40fe-9c5d-7c1a67c75f9f.png)
+**Part 9: More on Demand Elasticities**
 
-**Part 9**
+![Screen Shot 2021-11-09 at 7 12 06 PM](https://user-images.githubusercontent.com/31806435/141042930-86bc2249-f08e-4ffd-9357-d074d0f7bac3.png)
 
-![Screen Shot 2021-11-08 at 8 59 18 PM](https://user-images.githubusercontent.com/31806435/140865287-ea34b222-8fa8-44fa-8224-cf3ff0c0e8e3.png)
+![Screen Shot 2021-11-09 at 7 12 31 PM](https://user-images.githubusercontent.com/31806435/141042933-519a015c-6c2c-4b1c-9ca7-593974c9624f.png)
 
-![Screen Shot 2021-11-08 at 8 59 34 PM](https://user-images.githubusercontent.com/31806435/140865293-3e8d6ef7-2432-4e39-bfb0-83cf5a2d8757.png)
+![Screen Shot 2021-11-09 at 7 12 47 PM](https://user-images.githubusercontent.com/31806435/141042938-e041d5e2-39aa-4ee6-9ac3-0a8b6e56b295.png)
 
-![Screen Shot 2021-11-08 at 8 59 48 PM](https://user-images.githubusercontent.com/31806435/140865296-dc436280-95f3-4524-bb73-eafc0781bd47.png)
-
-**Part 10**
+**Part 10: Revealed Preference, WARP**
 
 ![Screen Shot 2021-11-08 at 9 00 36 PM](https://user-images.githubusercontent.com/31806435/140865544-1910d6d4-d24e-4a34-966b-b49450e7cbd2.png)
 
@@ -367,7 +373,7 @@
 
 ![Screen Shot 2021-11-08 at 9 02 45 PM](https://user-images.githubusercontent.com/31806435/140865580-f54a5557-c3de-4d36-8294-cd5eaf579b96.png)
 
-**Part 11**
+**Part 11: Applications of Revealed Preference**
 
 ![Screen Shot 2021-11-08 at 9 04 14 PM](https://user-images.githubusercontent.com/31806435/140865751-c12edab1-8e22-4ea8-a47f-2eda85d70706.png)
 
