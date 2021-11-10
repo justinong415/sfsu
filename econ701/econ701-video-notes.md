@@ -6,11 +6,14 @@
    * 5: Duality, Quasi-concavity/convexity
    * 6: Homogenous Functions, Euler's Theorem, Monotonic Transformations, and Homothetic Functions
 3. [Chapter 3: Preferences and Utility](#Chapter-3-Preferences-and-Utility)
-4. [Chapter 4: Utility Maximization and Choice](#Chapter-4-Utility-Maximization-and-Choice)
-5. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
-6. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
-7. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
-8. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
+   * 1: Axioms of Preferences, Ordinal vs Cardinal Utility
+   * 2: Indifference curves, Marginal Rates of Substitution
+   * 3: Some Specific Functional Forms of Utility
+5. [Chapter 4: Utility Maximization and Choice](#Chapter-4-Utility-Maximization-and-Choice)
+6. [Chapter 5: Income and Substitution Effects](#Chapter-5-Income-and-Substitution-Effects)
+7. [Chapter 6: Demand Relationships Among Goods](#Chapter-6-Demand-Relationships-Among-Goods)
+8. [Chapter 7: Uncertainty](#Chapter-7-Uncertainty)
+9. [Chapter 9: Production Functions](#Chapter-9-Production-Functions)
 
 ---
 
@@ -108,7 +111,7 @@
 
 ### Chapter 3: Preferences and Utility
 
-**Part 1**
+**Part 1: Axioms of Preferences, Ordinal vs Cardinal Utility**
 
 ![Screen Shot 2021-11-07 at 5 49 05 PM](https://user-images.githubusercontent.com/31806435/140672208-df9bcdcf-6bf0-4f4c-8d62-42187d517e3c.png)
 
@@ -122,7 +125,7 @@
 
 ![Screen Shot 2021-11-07 at 5 50 30 PM](https://user-images.githubusercontent.com/31806435/140672236-9d4ac5c7-0211-4b9c-92d0-527af6df0317.png)
 
-**Part 2**
+**Part 2: Indifference curves, Marginal Rates of Substitution**
 
 ![Screen Shot 2021-11-07 at 5 52 05 PM](https://user-images.githubusercontent.com/31806435/140672500-8b02de0d-9ad3-498c-bc5b-a8008461f1c4.png)
 
@@ -142,7 +145,7 @@
 
 ![Screen Shot 2021-11-07 at 5 53 54 PM](https://user-images.githubusercontent.com/31806435/140672556-c480bae9-a99f-42f4-bd55-cc8fe6af8629.png)
 
-**Part 3**
+**Part 3: Some Specific Functional Forms of Utility**
 
 ![Screen Shot 2021-11-07 at 5 57 11 PM](https://user-images.githubusercontent.com/31806435/140673193-9e5e77b4-9cfb-4828-853f-ad83871fe620.png)
 
