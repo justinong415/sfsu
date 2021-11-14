@@ -1,6 +1,8 @@
 **Table of Contents**
 
 1. [Chapter 2: Mathematics for Microeconomics](#Chapter-2-Mathematics-for-Microeconomics)
+   * 1: First Order Condition (FOC), Second Order Condition (SOC), Local and Global Minimum and Maximum, Multi-Variable Functions
+   * 2: Partial Differentials, Total Differentials, Maximization/Minimization of Multi-Variable Functions, Young’s Theorem
    * 3: Implicit Functions, Comparative Statics, Envelope Theorem
    * 4: Constrainted Optimization
    * 5: Duality, Quasi-concavity/convexity
