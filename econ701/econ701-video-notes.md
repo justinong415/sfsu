@@ -57,6 +57,11 @@
     * 4: Moving from Short Run Equilibrium to Long Equilibrium, Long Run Supply
     * 5: Long Run Producer Surplus, Efficiency of the Perfectly Competitive Market
 16. [Chapter 14: Monopoly](#Chapter-14-Monopoly)
+17. [Chapter 18: Asymmetric Information](#Chapter-18-Asymmetric-Information)
+    * 1: Moral Hazard, Principal-Agent Problem
+    * 2: Principal-Agent Problem, continued
+    * 3: Principal-Agent Problem, Owner-Manager Example
+    * 4: Adverse Selection**
 
 ---
 
@@ -740,11 +745,88 @@
 
 ### Chapter 14: Monopoly
 
+**Part 1**
 
+![Screen Shot 2021-12-06 at 9 54 19 PM](https://user-images.githubusercontent.com/31806435/144974513-e5fdc85c-90bc-41f0-8823-7f14a3b02f82.png)
 
+![Screen Shot 2021-12-06 at 9 55 04 PM](https://user-images.githubusercontent.com/31806435/144974522-60c68d26-92ad-4aef-ab5b-8b4bed6b57eb.png)
 
+![Screen Shot 2021-12-06 at 9 55 15 PM](https://user-images.githubusercontent.com/31806435/144974530-d9c15e10-8a1a-475a-8158-ec4f051e4aa7.png)
 
+![Screen Shot 2021-12-06 at 9 55 28 PM](https://user-images.githubusercontent.com/31806435/144974538-7bfc9cdd-6c33-4185-9189-d32af6702af6.png)
 
+![Screen Shot 2021-12-06 at 9 56 20 PM](https://user-images.githubusercontent.com/31806435/144974540-c84e6962-4076-4131-93f8-7bbe8d919c6c.png)
 
+**Part 2**
 
+![Screen Shot 2021-12-06 at 10 11 54 PM](https://user-images.githubusercontent.com/31806435/144976330-7f9376ca-9c05-439c-8295-c60099a9cf20.png)
 
+![Screen Shot 2021-12-06 at 10 12 16 PM](https://user-images.githubusercontent.com/31806435/144976335-aa2d6f76-9b50-466c-96cf-5e902811621c.png)
+
+![Screen Shot 2021-12-06 at 10 13 04 PM](https://user-images.githubusercontent.com/31806435/144976341-a0af2973-a206-4bb7-84c5-71df52c5a64e.png)
+
+![Screen Shot 2021-12-06 at 10 13 12 PM](https://user-images.githubusercontent.com/31806435/144976350-3ee27264-4929-49e5-a38f-49ff4eb35752.png)
+
+![Screen Shot 2021-12-06 at 10 13 21 PM](https://user-images.githubusercontent.com/31806435/144976355-a38f8009-7551-413a-a544-244c05364357.png)
+
+**Part 3**
+
+![Screen Shot 2021-12-06 at 10 22 44 PM](https://user-images.githubusercontent.com/31806435/144977491-9258b1af-3d54-4f6c-883b-0a144b101926.png)
+
+![Screen Shot 2021-12-06 at 10 23 00 PM](https://user-images.githubusercontent.com/31806435/144977496-b69f59b8-0785-4795-a539-755a897ca5db.png)
+
+![Screen Shot 2021-12-06 at 10 23 13 PM](https://user-images.githubusercontent.com/31806435/144977502-53f002d5-2d42-4e14-b529-f137b9291d7a.png)
+
+![Screen Shot 2021-12-06 at 10 24 04 PM](https://user-images.githubusercontent.com/31806435/144977509-ff4d106d-9935-4b8e-b95b-a99e2efda5b3.png)
+
+![Screen Shot 2021-12-06 at 10 24 44 PM](https://user-images.githubusercontent.com/31806435/144977514-96d75958-afd1-40fb-b7c3-5f4bdc33ce71.png)
+
+---
+
+### Chapter 18: Asymmetric Information
+
+**Part 1: Moral Hazard, Principal-Agent Problem**
+
+![Screen Shot 2021-12-06 at 10 28 28 PM](https://user-images.githubusercontent.com/31806435/144979278-7677f88e-fad6-4356-a03b-4f87f8977dc8.png)
+
+![Screen Shot 2021-12-06 at 10 29 22 PM](https://user-images.githubusercontent.com/31806435/144979288-fb8c9cec-9149-4a24-b8d0-ca04974e70c1.png)
+
+![Screen Shot 2021-12-06 at 10 29 41 PM](https://user-images.githubusercontent.com/31806435/144979311-ce6f6e73-00ab-4c9d-bcea-b31f6b74bd52.png)
+
+![Screen Shot 2021-12-06 at 10 29 57 PM](https://user-images.githubusercontent.com/31806435/144979319-77359445-ddea-4de6-a8c8-8037a501f9a5.png)
+
+![Screen Shot 2021-12-06 at 10 30 33 PM](https://user-images.githubusercontent.com/31806435/144979324-e3de5333-9317-4115-8375-3a2cdacc2bcc.png)
+
+![Screen Shot 2021-12-06 at 10 32 21 PM](https://user-images.githubusercontent.com/31806435/144979336-2708e99e-043e-4e89-b27e-5c1f73cede81.png)
+
+![Screen Shot 2021-12-06 at 10 34 39 PM](https://user-images.githubusercontent.com/31806435/144979340-f26b10a6-041e-4117-8903-91503ca6d1d8.png)
+
+![Screen Shot 2021-12-06 at 10 39 26 PM](https://user-images.githubusercontent.com/31806435/144979344-a9376c9c-84af-4136-b5c0-4cf590e9de87.png)
+
+**Part 2: Principal-Agent Problem, continued**
+
+![Screen Shot 2021-12-06 at 10 48 23 PM](https://user-images.githubusercontent.com/31806435/144981898-875adfca-2b46-4ccb-a216-462b1255000c.png)
+
+![Screen Shot 2021-12-06 at 10 50 18 PM](https://user-images.githubusercontent.com/31806435/144981902-a3d05f73-34f7-4a77-a9d2-556424bf2c24.png)
+
+![Screen Shot 2021-12-06 at 10 57 17 PM](https://user-images.githubusercontent.com/31806435/144981910-fd30df59-291d-4e74-8fda-819cfe535b23.png)
+
+![Screen Shot 2021-12-06 at 10 59 24 PM](https://user-images.githubusercontent.com/31806435/144981914-f9cdd34e-d316-4e71-b9e8-43f37d147a9c.png)
+
+**Part 3: Principal-Agent Problem, Owner-Manager Example**
+
+![Screen Shot 2021-12-06 at 11 02 02 PM](https://user-images.githubusercontent.com/31806435/144982155-e62b4f83-4b86-4637-b008-4a451fb35adb.png)
+
+![Screen Shot 2021-12-06 at 11 02 26 PM](https://user-images.githubusercontent.com/31806435/144982167-3f502cc1-48a3-4ebd-9229-382ff6b51b54.png)
+
+![Screen Shot 2021-12-06 at 11 02 45 PM](https://user-images.githubusercontent.com/31806435/144982177-038a59d9-83ed-47cc-9481-89fc4a71498f.png)
+
+![Screen Shot 2021-12-06 at 11 03 00 PM](https://user-images.githubusercontent.com/31806435/144982182-9f6164ee-0f3b-4a4f-8040-43276430e6a6.png)
+
+![Screen Shot 2021-12-06 at 11 03 11 PM](https://user-images.githubusercontent.com/31806435/144982190-a5e57740-860d-4093-9535-dd0e0554db04.png)
+
+**Part 4: Adverse Selection**
+
+![Screen Shot 2021-12-06 at 11 04 38 PM](https://user-images.githubusercontent.com/31806435/144982364-d94852dd-e472-4cfc-af7b-bf7e8d69b291.png)
+
+![Screen Shot 2021-12-06 at 11 04 58 PM](https://user-images.githubusercontent.com/31806435/144982374-0b6d86a2-f95a-4472-a9ae-fc8928d87194.png)
