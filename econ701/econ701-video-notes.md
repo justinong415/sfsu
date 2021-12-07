@@ -50,6 +50,8 @@
     * 2: Short-Run Supply by a Price-Taking Competitive Firm, Short-Run Shutdown Decision, Deriving Short-Run Supply
     * 3: Profit Functions, Hotelling's Lemma and Other Envelope Results, Producer Surplus
     * 4: Other Envelope Results, Profit Maximization and Input Demand (Unconditional), Output and Substitution Effects
+15. [Chapter 12: The Partial Equilibrium Competitive Model](#Chapter-12-The-Partial-Equilibrium-Competitive-Model)
+    * 1: Perfect Competition, Market Demand and Supply, Equilibrium
 
 ---
 
@@ -654,4 +656,27 @@
 ![Screen Shot 2021-11-09 at 9 09 15 PM](https://user-images.githubusercontent.com/31806435/141053595-c3f5a115-89ff-47c0-9e61-aa60f9541890.png)
 
 ![Screen Shot 2021-11-09 at 9 09 27 PM](https://user-images.githubusercontent.com/31806435/141053602-02a0843d-a50f-4388-94df-c29335cf08e7.png)
+
+---
+
+### Chapter 12: The Partial Equilibrium Competitive Model
+
+**Part 1: Perfect Competition, Market Demand and Supply, Equilibrium**
+
+![Screen Shot 2021-12-06 at 8 20 19 PM](https://user-images.githubusercontent.com/31806435/144965815-5e9c95b9-3049-4641-97e0-12c2f4cd4a57.png)
+
+![Screen Shot 2021-12-06 at 8 20 32 PM](https://user-images.githubusercontent.com/31806435/144965831-268936ea-a5e1-44f5-8eb2-22f5d6c3da9e.png)
+
+![Screen Shot 2021-12-06 at 8 20 46 PM](https://user-images.githubusercontent.com/31806435/144965845-8a154669-088f-4158-8416-ef754b342e3b.png)
+
+![Screen Shot 2021-12-06 at 8 20 59 PM](https://user-images.githubusercontent.com/31806435/144965849-703ea249-54b9-466e-bb42-3845d383b682.png)
+
+![Screen Shot 2021-12-06 at 8 21 16 PM](https://user-images.githubusercontent.com/31806435/144965852-2db052eb-376f-4976-9928-ff23256aa4de.png)
+
+![Screen Shot 2021-12-06 at 8 21 39 PM](https://user-images.githubusercontent.com/31806435/144965859-2e6fc4ae-bbf8-480a-9efa-2d0dc8586c6c.png)
+
+
+
+
+
 
