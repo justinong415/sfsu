@@ -52,6 +52,11 @@
     * 4: Other Envelope Results, Profit Maximization and Input Demand (Unconditional), Output and Substitution Effects
 15. [Chapter 12: The Partial Equilibrium Competitive Model](#Chapter-12-The-Partial-Equilibrium-Competitive-Model)
     * 1: Perfect Competition, Market Demand and Supply, Equilibrium
+    * 2: Comparative Statics
+    * 3: More Comparative Statics
+    * 4: Moving from Short Run Equilibrium to Long Equilibrium, Long Run Supply
+    * 5: Long Run Producer Surplus, Efficiency of the Perfectly Competitive Market
+16. [Chapter 14: Monopoly](#Chapter-14-Monopoly)
 
 ---
 
@@ -674,6 +679,69 @@
 ![Screen Shot 2021-12-06 at 8 21 16 PM](https://user-images.githubusercontent.com/31806435/144965852-2db052eb-376f-4976-9928-ff23256aa4de.png)
 
 ![Screen Shot 2021-12-06 at 8 21 39 PM](https://user-images.githubusercontent.com/31806435/144965859-2e6fc4ae-bbf8-480a-9efa-2d0dc8586c6c.png)
+
+**Part 2: Comparative Statics**
+
+![Screen Shot 2021-12-06 at 9 11 26 PM](https://user-images.githubusercontent.com/31806435/144970592-1a9bc325-2ffd-4c04-af18-7e3045596b61.png)
+
+![Screen Shot 2021-12-06 at 9 11 38 PM](https://user-images.githubusercontent.com/31806435/144970597-c6e1cacc-b233-466c-91b2-7689ea288de2.png)
+
+![Screen Shot 2021-12-06 at 9 11 50 PM](https://user-images.githubusercontent.com/31806435/144970601-e3dc89b7-fe1d-4629-9120-a39efef8a710.png)
+
+![Screen Shot 2021-12-06 at 9 12 14 PM](https://user-images.githubusercontent.com/31806435/144970607-9ee2f4c4-40b2-4924-b472-5e38f40ea20c.png)
+
+![Screen Shot 2021-12-06 at 9 12 28 PM](https://user-images.githubusercontent.com/31806435/144970615-ed9dff59-4391-43c7-9f7a-56ea18c6ed2d.png)
+
+![Screen Shot 2021-12-06 at 9 13 45 PM](https://user-images.githubusercontent.com/31806435/144970623-5ac5d226-428b-482f-ace9-f47237972114.png)
+
+![Screen Shot 2021-12-06 at 9 14 14 PM](https://user-images.githubusercontent.com/31806435/144970628-1918c910-cdf6-419a-8e21-455545469b23.png)
+
+**Part 3: More Comparative Statics**
+
+![Screen Shot 2021-12-06 at 9 21 16 PM](https://user-images.githubusercontent.com/31806435/144971324-fbc885ef-c98f-4b62-88de-deeaefad035b.png)
+
+![Screen Shot 2021-12-06 at 9 21 33 PM](https://user-images.githubusercontent.com/31806435/144971328-8bbbfdb7-90de-4ead-8768-c0a0f98844a4.png)
+
+![Screen Shot 2021-12-06 at 9 21 57 PM](https://user-images.githubusercontent.com/31806435/144971333-854e318d-903b-4c8c-8939-f9724ebb2bfe.png)
+
+![Screen Shot 2021-12-06 at 9 22 10 PM](https://user-images.githubusercontent.com/31806435/144971337-2ad45e16-9f90-44d4-8549-0d850cc2b6d4.png)
+
+**Part 4: Moving from Short Run Equilibrium to Long Equilibrium, Long Run Supply**
+
+![Screen Shot 2021-12-06 at 9 25 56 PM](https://user-images.githubusercontent.com/31806435/144971768-0a28b78a-9aae-4d58-9e3b-59f3d61480e7.png)
+
+![Screen Shot 2021-12-06 at 9 26 32 PM](https://user-images.githubusercontent.com/31806435/144971774-c613ec97-2242-4c30-a89e-a07ab02e7c54.png)
+
+![Screen Shot 2021-12-06 at 9 26 51 PM](https://user-images.githubusercontent.com/31806435/144971782-a76f2b38-aea6-4568-8d48-025cb62ed1ca.png)
+
+![Screen Shot 2021-12-06 at 9 27 18 PM](https://user-images.githubusercontent.com/31806435/144971792-a2427a99-22b4-4eaa-a119-5fa2cb11ce0b.png)
+
+**Part 5: Long Run Producer Surplus, Efficiency of the Perfectly Competitive Market**
+
+![Screen Shot 2021-12-06 at 9 35 37 PM](https://user-images.githubusercontent.com/31806435/144972608-5b9942a9-edee-4e43-9a49-22851d49bb9a.png)
+
+![Screen Shot 2021-12-06 at 9 36 00 PM](https://user-images.githubusercontent.com/31806435/144972615-29ce0c16-5407-4737-ad22-0c58ea30dce2.png)
+
+**Part 6: Taxes and Efficiency**
+
+![Screen Shot 2021-12-06 at 9 45 04 PM](https://user-images.githubusercontent.com/31806435/144973692-1c0712ea-7018-4508-aa51-bf936807149e.png)
+
+![Screen Shot 2021-12-06 at 9 45 50 PM](https://user-images.githubusercontent.com/31806435/144973698-58986d64-b899-4f87-9398-f66f5f9c6a20.png)
+
+![Screen Shot 2021-12-06 at 9 46 42 PM](https://user-images.githubusercontent.com/31806435/144973701-3d56c2d1-5b05-4556-aca1-d4c178bd9760.png)
+
+![Screen Shot 2021-12-06 at 9 47 04 PM](https://user-images.githubusercontent.com/31806435/144973705-208d9f7c-0117-47b5-946a-68572d763ee0.png)
+
+![Screen Shot 2021-12-06 at 9 47 22 PM](https://user-images.githubusercontent.com/31806435/144973715-7451e91d-d358-42f2-acdf-720cbf76b806.png)
+
+![Screen Shot 2021-12-06 at 9 47 51 PM](https://user-images.githubusercontent.com/31806435/144973721-e05760cf-c3e5-4ff1-854f-9085e188544b.png)
+
+---
+
+### Chapter 14: Monopoly
+
+
+
 
 
 
