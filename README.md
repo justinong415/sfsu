@@ -1,1 +1,1 @@
-# sfsu
+# Quantitative Economics
