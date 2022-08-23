@@ -39,9 +39,12 @@
 
    $$ y = f(x_1, x_2, x_3, x_4, x_5, x_6, x_7) $$
    
-   where:
+
    
    $y$ = hours spent in criminal activities
-   
+
+   This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+
    
 </details>
+
