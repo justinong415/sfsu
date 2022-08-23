@@ -37,6 +37,11 @@
 
    Under general assumptions, we can derive an equation describing the amount of time spent in criminal activity as a function of various factors. We might represent such a function as
 
-   $$ y = f(x_1) $$
+   $$ y = f(x_1, x_2, x_3, x_4, x_5, x_6, x_7) $$
+   
+   where:
+   
+   $y$ = hours spent in criminal activities
+   
    
 </details>
