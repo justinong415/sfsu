@@ -19,4 +19,9 @@
 
 ### Steps in Empirical Economic Analysis
 
-
+1. Empirical analysis: A study that uses data in a formal econometric analysis to test a theory, estimate a relationship, or determine the effectiveness of a policy.
+2. Structuring an empirical economic analysis first requires careful formulation of the question of interest.
+3. Economic model: Mathematical equations that describe various relationships derived from economic theory or less formal economic reasoning.
+4. Utility maximization: The basic premise underlying economic models; leads to a set of demand equations.
+   - Individuals make choices to maximize their well-being, subject to resource constraints, gives a framework for creating tractable economic models and making clear predictions.
+5. Demand equation: the quantity demanded of each commodity depends on the price of the goods, the price of substitute and complementary goods, the consumer’s income, and the individual’s characteristics that affect taste.
