@@ -25,3 +25,18 @@
 4. Utility maximization: The basic premise underlying economic models; leads to a set of demand equations.
    - Individuals make choices to maximize their well-being, subject to resource constraints, gives a framework for creating tractable economic models and making clear predictions.
 5. Demand equation: the quantity demanded of each commodity depends on the price of the goods, the price of substitute and complementary goods, the consumer’s income, and the individual’s characteristics that affect taste.
+
+<details>
+  <summary>Example: Economic Model of Crime</summary>
+
+   1. Gary Becker postulated a utility maximization framework to describe an individual’s participation in crime. 
+   2. Certain crimes have clear economic rewards, but most criminal behaviors have costs. 
+   3. The opportunity costs of crime prevent the criminal from participating in other activities such as legal employment.
+   4. In addition, there are costs associated with the possibility of being caught and then, if convicted, the costs associated with incarceration. 
+   5. The decision to undertake illegal activity is one of resource allocation, with the benefits and costs of competing activities taken into account.
+
+   Under general assumptions, we can derive an equation describing the amount of time spent in criminal activity as a function of various factors. We might represent such a function as
+
+   $$ y = f(x_1) $$
+   
+</details>
