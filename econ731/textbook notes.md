@@ -26,6 +26,8 @@
    - Individuals make choices to maximize their well-being, subject to resource constraints, gives a framework for creating tractable economic models and making clear predictions.
 5. Demand equation: the quantity demanded of each commodity depends on the price of the goods, the price of substitute and complementary goods, the consumer’s income, and the individual’s characteristics that affect taste.
 
+   $y$ =  hours spent in criminal activities
+
 <details>
   <summary>Example: Economic Model of Crime</summary>
 
@@ -39,9 +41,9 @@
 
    $$ y = f(x_1, x_2, x_3, x_4, x_5, x_6, x_7) $$
    
-
+   $y$ =  hours spent in criminal activities
    
-   $y$ = hours spent in criminal activities
+   $y$ =  hours spent in criminal activities
 
    This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
