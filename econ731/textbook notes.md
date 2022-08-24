@@ -2,6 +2,7 @@
 1. [The Nature of Econometrics and Economic Data](#The-Nature-of-Econometrics-and-Economic-Data)
    1. [What is Econometrics](#What-is-Econometrics)
    2. [Steps in Empirical Economic Analysis](#Steps-in-Empirical-Economic-Analysis)
+   3. [Structure of Economic Data](#Structure-of-Economic-Data)
 
 ## The Nature of Econometrics and Economic Data
 
@@ -84,9 +85,9 @@ The constants $\beta_0$ , $\beta_1$, ..., $\beta_\beta$ are the paramters of the
  - They describe the directions and strengths of the relationship between crime and factors used to determine _crime_ in the model.
 
 
+### Structure of Economic Data
 
-
-
+#### Cross-Sectional Data
 
 
 
