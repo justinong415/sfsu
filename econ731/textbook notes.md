@@ -68,9 +68,20 @@
 3. Some variables cannot reasonably be observed or even list, but we must somehow account for them.
    - Example: wage earned in criminal activity. Difficult to realistically observe, but we can observe relevant arrest statistics and derive a variable that approximates the probability of arrest.
 
+Ambiguities inherent in economoc model of crime are resolved by specifying a econometric model:
 
+$$ crime = \beta_0 + \beta_1wage + \beta_3freqarr + \beta_4freqconv + \beta_5avgsen + \beta_6age + u $$
 
+ - $crime$ = some measure of the frequency of criminal activity
+ - $wage$ = the wage that can be earned in legal employment
+ - $othinc$ = the income from other sources (assets, inheritance, and so on)
+ - $freqarr$ = the frequency of arrest for prior infractions
+ - $freqconv$ = the frequency of conviction
+ - $avgsen$ = the average sentence lenfth after conviction
+ - $u$ = unobserved factors, such as wage for criminal activity, moral character, family background, and errors in measuring things like criminal acivity and probability of arrest
 
+The constants $\beta_0$ , $\beta_1$, ..., $\beta_\beta$ are the paramters of the econometric model. 
+ - They describe the directions and strengths of the relationship between crime and factors used to determine _crime_ in the model.
 
 
 
