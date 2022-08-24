@@ -50,3 +50,15 @@
    
 </details>
 
+
+<details>
+  <summary>Example: Job Training and Worker Productivity</summary>
+
+   $$ wage = f(educ, exper, training) $$
+   
+   - $wage$ = hourly wage
+   - $educ$ = years of formal education
+   - $exper$ = years of workforce experience
+   - $training$ = weeks spent in job training
+   
+</details>
