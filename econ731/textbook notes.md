@@ -62,3 +62,20 @@
    - $training$ = weeks spent in job training
    
 </details>
+
+1. **Econometric model**: An equation relating the dependent variable to a set of explanatory variables and unobserved disturbances, where unknown population parameters determine the ceteris paribus ("other things equal") effect of each explanatory variable.
+2. The form of the function $f(·)$ must be specified for an econometric model to relate to an economic model.
+3. Some variables cannot reasonably be observed or even list, but we must somehow account for them.
+   - Example: wage earned in criminal activity. Difficult to realistically observe, but we can observe relevant arrest statistics and derive a variable that approximates the probability of arrest.
+
+
+
+
+
+
+
+
+
+
+
+
