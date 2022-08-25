@@ -1,7 +1,10 @@
 
-1. [Intro](#Intro)
+1. Week 1: [Introduction and Course Overview](#Introduction-and-Course-Overview)
+   - [Intro Slides](#Intro-Slides)
 
-## Intro
+## Introduction and Course Overview
+
+### Intro Slides
 
 [intro-slides.pdf](https://github.com/justinong415/sfsu/files/9420949/intro-slides.pdf)
 
