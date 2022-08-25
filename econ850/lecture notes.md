@@ -31,3 +31,9 @@
 </p>
 </details>
 
+#### How How will it get?
+1. Atmospheric $CO^2$ levels in 1880: 280ppm. Now: +400 ppm.
+2. Global temperature rise since 1880: 2.0° F (>1.0° C)
+3. By 2100: +3° F to + 9° over 1800 levels.
+4. Last Ice Age: Avg global temp ~9° F colder than today.
+
