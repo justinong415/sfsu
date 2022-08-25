@@ -27,7 +27,7 @@
 3. How can we do better?
    - Tools
      1. "Command-and-control regulation"
-     2. Policiees to promote clean technologies
+     2. Policies to promote clean technologies
         1. Research and development funding
         2. Subsidies for infant industries
         3. Infrastructure investment
