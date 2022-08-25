@@ -3,6 +3,8 @@
 
 ## Intro
 
+[ch01.pdf](https://github.com/justinong415/sfsu/files/9420947/ch01.pdf)
+
 #### Four Major Questions in Environmental Economics
 
 1. How much pollution is too much?
