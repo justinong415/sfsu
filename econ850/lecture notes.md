@@ -19,7 +19,19 @@
      3. Conflicts over property rights
      4. Conservative v progressive views of government's role
 3. How can we do better?
-4. Can we resolve global issues?
+   - Tools
+     1. "Command-and-control regulation"
+     2. Policiees to promote clean technologies
+        1. Research and development funding
+        2. Subsidies for infant industries
+        3. Infrastructure investment
+        4. Technical efficiency standards
+        5. Technical assistance
+     3. Price system approaches, e.g.:
+        - To achieve 4° F, global carbon tax of $70/ton today rising to $224/ton by 2050
+        - To achieve 5° F, global carbon tax of $25/ton today rising to $93/ton by 2050
+        - To achieve 5° F, emissions quotas for each country, with transferable credits
+5. Can we resolve global issues?
 
 <details><summary>Greenhouse gas effect concept</summary>
 <p>
@@ -31,9 +43,10 @@
 </p>
 </details>
 
-#### How How will it get?
+#### How Hot will it get?
 1. Atmospheric $CO^2$ levels in 1880: 280ppm. Now: +400 ppm.
 2. Global temperature rise since 1880: 2.0° F (>1.0° C)
 3. By 2100: +3° F to + 9° over 1800 levels.
 4. Last Ice Age: Avg global temp ~9° F colder than today.
 
+Bloomberg Interactive Article: [What's Really Warming the World?](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/#xj4y7vzkg) ⚠️ Paywall
