@@ -21,5 +21,13 @@
 3. How can we do better?
 4. Can we resolve global issues?
 
+<details><summary>Greenhouse gas effect concept</summary>
+<p>
 
+   ![Greenhouse-effect](https://user-images.githubusercontent.com/31806435/186559589-fed95d6b-5df0-431a-969e-fe33ce9fef4d.jpg)
+
+   [Carbon Dioxide, Methane, Nitrous Oxide, and the Greenhouse Effect](https://climatechange.lta.org/get-started/learn/co2-methane-greenhouse-effect/)
+
+</p>
+</details>
 
