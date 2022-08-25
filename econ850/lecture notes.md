@@ -16,7 +16,8 @@
         - Generate values for costs and benefits of environmental protection.
         - Apply the neoclassical economics framework to find the right level.
      - Safety: reduce pollution to "safe" levels
-     - Economic sustainability: protect natural ecosystems from major changes (unless costs of doing so are prohibitive)
+     - Economic sustainability: protect natural ecosystems from major changes.
+        - Unless costs of doing so are prohibitive.
 2. Is government up to the job?
    - Obstacles to effective government intervention:
      1. Imperfect information
