@@ -31,7 +31,10 @@
         - To achieve 4° F, global carbon tax of $70/ton today rising to $224/ton by 2050
         - To achieve 5° F, global carbon tax of $25/ton today rising to $93/ton by 2050
         - To achieve 5° F, emissions quotas for each country, with transferable credits
-5. Can we resolve global issues?
+4. Can we resolve global issues?
+   - Halt unsustainable exploitation of natural resources
+   - Slow global warming
+   - How to develop effective international agreements?
 
 <details><summary>Greenhouse gas effect concept</summary>
 <p>
