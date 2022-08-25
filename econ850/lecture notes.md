@@ -1,6 +1,7 @@
 
 1. Week 1: [Introduction and Course Overview](#Introduction-and-Course-Overview)
    - [Intro Slides](#Intro-Slides)
+   - [50 Years of Environmental Economics](#50-Years-of-Environmental-Economics)
 
 ## Introduction and Course Overview
 
@@ -75,5 +76,25 @@
 
 </p>
 </details>
+
+### 50 Years of Environmental Economics
+
+[Fullerton-EnvEcon-cesifo1_wp8075.pdf](https://github.com/justinong415/sfsu/files/9421340/Fullerton-EnvEcon-cesifo1_wp8075.pdf)
+
+Environmental Economics: The 50th Anniversary of the Birth of This Field around the First Earth Day - Don Fullerton 
+
+1. First Earth Day: April 22nd, 1970.
+2. Pollution is a market failure that can be corrected.
+   - By identifying market failures that create pollution and helping to design
+policy proposals that maximize cost-effectiveness, economics can be a powerful tool
+for environmental protection
+3. Arthur Pigou in 1920 proposed a government tax per unit of pollution (Pigouvian tax on pollution).
+4. Ronald Coase in 1960 argued private interactions could solve pollution problems when property rights are well defined and transactions costs are low.
+   - In Coase’s scenario, no government regulation meant that polluters could pollute, but victims downstream could simply pay the polluter to cut back emissions to a mutually agreeable level.
+5. Most economists before 1968 largely ignored the study of the environment.
+6. 1974 – the dawning of "environmental economics"; founding of the *Journal of Environmental Economics and Management*.
+7. 1968 - biologist Garrett Hardin published an article in *Science* ‘The Tragedy of the Commons’.
+   - unregulated use of a commons – a place that everybody can use, with no real owner – could lead to unsustainable exploitation and environmental degradation of the oceans, land and
+atmosphere.
 
 
