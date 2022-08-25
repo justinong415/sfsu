@@ -52,4 +52,22 @@
 3. By 2100: +3° F to + 9° over 1800 levels.
 4. Last Ice Age: Avg global temp ~9° F colder than today.
 
-Bloomberg Interactive Article: [What's Really Warming the World?](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/#xj4y7vzkg) ⚠️ Paywall
+<details><summary>What's Really Warming the World?</summary>
+<p>
+
+   Bloomberg Interactive Article: [What's Really Warming the World?](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/#xj4y7vzkg) ⚠️ Paywall
+   
+   ![1-whats-really-warming-the-world](https://user-images.githubusercontent.com/31806435/186563148-c0dfd2d5-08f9-42ed-ac9b-305e5e2eaad5.png)
+   ![2-orbit](https://user-images.githubusercontent.com/31806435/186563163-3b9f89e1-60fc-425a-a0ba-02856d8b0eb7.png)
+   ![3-sun](https://user-images.githubusercontent.com/31806435/186563170-d2f32541-d700-4bd1-86b1-ea49f4bf8a3f.png)
+   ![4-volcanoes](https://user-images.githubusercontent.com/31806435/186563184-dd446e52-4a27-4239-b4de-02c7aede0675.png)
+   ![5-all-three](https://user-images.githubusercontent.com/31806435/186563201-91049b52-d3d2-47fe-9884-63ce0c9581b8.png)
+   ![6-deforestation](https://user-images.githubusercontent.com/31806435/186563215-fe0b2834-4cff-4d2f-8e72-242ed08968f2.png)
+   ![7-ozone-pollution](https://user-images.githubusercontent.com/31806435/186563238-fbd32434-df92-4ef8-8b3d-72244bd5dff3.png)
+   ![8-aerosol-pollution](https://user-images.githubusercontent.com/31806435/186563246-f3c86932-c7c7-4281-8fec-fb7ecbff93f6.png)
+   ![9-greenhouse-gases](https://user-images.githubusercontent.com/31806435/186563257-eebbaedb-749b-43be-ad5c-5f07f86d8d85.png)
+
+</p>
+</details>
+
+
