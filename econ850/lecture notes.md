@@ -89,12 +89,21 @@ Environmental Economics: The 50th Anniversary of the Birth of This Field around 
 policy proposals that maximize cost-effectiveness, economics can be a powerful tool
 for environmental protection
 3. Arthur Pigou in 1920 proposed a government tax per unit of pollution (Pigouvian tax on pollution).
-4. Ronald Coase in 1960 argued private interactions could solve pollution problems when property rights are well defined and transactions costs are low.
+5. Ronald Coase in 1960 argued private interactions could solve pollution problems when property rights are well defined and transactions costs are low.
    - In Coase’s scenario, no government regulation meant that polluters could pollute, but victims downstream could simply pay the polluter to cut back emissions to a mutually agreeable level.
-5. Most economists before 1968 largely ignored the study of the environment.
-6. 1974 – the dawning of "environmental economics"; founding of the *Journal of Environmental Economics and Management*.
-7. 1968 - biologist Garrett Hardin published an article in *Science* ‘The Tragedy of the Commons’.
+6. Most economists before 1968 largely ignored the study of the environment.
+7. 1974 – the dawning of "environmental economics"; founding of the *Journal of Environmental Economics and Management*.
+8. 1968 - biologist Garrett Hardin published an article in *Science* ‘**The Tragedy of the Commons**’.
    - unregulated use of a commons – a place that everybody can use, with no real owner – could lead to unsustainable exploitation and environmental degradation of the oceans, land and
 atmosphere.
+   - argument largely based on biology and demography; many economists argue fundamental problem was lack of ownership.
+   - Reasoning: 
+9. Ownership
+   - If someone possessed a resource, they would protect their property.
+   - But private markets fail to provide public goods such as roads, law and order, defense.
+     - Lighthouse example: when built, its light can provide navigation benefits to additional boats at no additional costs
+     - But no business could recover cost of lighthosue, since boaters can use the light whether they pay or not
+     - "Free riders" cause the private market to fail, even though social benefits exceed costs 
+
 
 
