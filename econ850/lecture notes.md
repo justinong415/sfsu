@@ -118,3 +118,28 @@ atmosphere.
 12. In contrast, **environmental economics analyze both costs and benefits of environmental protection schemes**.
     - Often found that costs of actual legislative and regulatory changes were significantly higher than other policies that could achieve the same degree of environmental protection.
     - Economically efficient approaches could lead to greater environmental protection for the same level of financial investment.
+13. John Harkness Dales, 1968
+    - Idea for minimizing the cost of achieving any given degree of environmental protection.
+    - Government could limit the total amount of pollution at an appropriate low level, print a fixed number of permits or licenses, and let polluters bid for the permits or trade with each other.
+    - The key innovation of Dales’ idea was to recognize that a particular required mitigation technology cannot logically be ‘best’ in all different circumstances. 
+      - Policymakers in the nation’s capital cannot possibly know as much about production technologies as the engineers inside each firm, especially when those technologies vary across firms. 
+      - The same pollution reduction could be achieved by letting each firm determine their own ‘best’ method. 
+    - With **permit trading**, a firm with limited options can essentially pay a different firm to do their required pollution reduction, through a so-called ‘cap-and-trade’ approach.
+      - With a single market price (e.g. $100 per metric ton of sulfur dioxide emissions), a tradeable permit system provides incentive for any firm to develop emission reduction strategies that cost less than $100 per metric ton. 
+      - Firms would bypass any technology costing more than $100 to reduce emissions per metric ton, choosing the more economical approach of simply buying an emissions permit instead.
+13. William Baumol and Wallace Oates, 1971, various approaches to implementing pollution pricing policies
+14. 1972, David Montgomery showed exactly what conditions would be necessary for a permit policy to minimize the total social cost of pollution abatement
+15. 1974 paper by Martin Weitzman that explored the difference between taxation and permit policy as a means of pollution pricing
+16. A tax on pollution fixes the price of pollution, but it does not necessarily limit the total quantity of emissions.
+    - Firms facing a fixed price will decide their quantity of pollution and thus the total amount they are willing to pay for it. 
+    - If policymakers knew the total quantity of pollution that would result under a given taxation scheme, they could fix that quantity of pollution by printing a fixed number of tradable permits
+    - Under this permit system, the market would be expected to produce an equivalent pollution price for the same quantity of emissions
+    - But the critical difference relates to future uncertainty as market conditions evolve.
+    - Limiting the quantity of pollution through a permitting system is great for ensuring a clean environment, but firms cannot be sure what price they will have to pay in the future. 
+    - That uncertainty can inhibit investment and reduce growth, raising costs
+    - On the other hand, setting the price of pollution through taxation is great for ensuring a known cost of production (and thus certainty for investors), but this approach creates uncertainty about the total amount of resulting pollution.
+17. Which policy, taxation or permitting, better maximizes total social welfare – accounting for all economic and environmental costs and benefits?
+    - answer depends on the relative impacts of uncertain economic costs as compared to uncertain environmental costs. 
+
+
+
