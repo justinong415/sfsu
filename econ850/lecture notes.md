@@ -251,6 +251,19 @@ Ethics and Economics
      - original utilitarians believe this to be correct form, since "greatest good for the greatest number" should be the guiding principle for public policy
    -  They thought that to implement such a policy would require measuring utility in a precise way, and they devised elaborate methods for comparing the relative happiness derived from consumption by different individuals.
 2. equal marginal utility of consumption
+   - Unlike classical utilitarians, modern economists do not rely on direct measurements of utility
+   - However, to determine the “correct” level of pollution from a social welfare perspective, we do need to weigh one person’s consumption against another’s
+   - One social judgment we might make is that **additions** to consumption are valued equally by individuals
+   - under this assumption, if your income goes up by a dollar and mine goes down by a dollar, social welfare will remain unchanged
+3. problems with ![Screen Shot 2022-08-26 at 1 15 56 PM](https://user-images.githubusercontent.com/31806435/186984169-d2e52d09-3792-4df9-af81-581dc0fc7a6a.png)
+   1. increases in each person’s happiness receive equal weight
+      - social welfare goes up at the same rate when the utility of either a millionaire or a street person rises
+   2. also provides no special protection for the well-being of future generations
+   3. also assumes that pollution victims have no special rights
+   4. “adding up” mechanism underlying an efficiency standard for pollution control. 
+      - Under an efficiency standard, the idea is to maximize the net benefits (benefits minus costs) of economic growth, by carefully weighing the benefits (more consumption) against the costs (pollution and resource degradation). 
+      - This is done without reference to who bears the costs or gains the benefits.
+
 
 
 
