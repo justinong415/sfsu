@@ -3,6 +3,7 @@
    - [Intro Slides](#Intro-Slides)
    - [50 Years of Environmental Economics](#50-Years-of-Environmental-Economics)
    - [Chapter 1 Four main questions in environmental economics](#Chapter-1-Four-main-questions-in-environmental-economics)
+   - [Chapter 2 The efficiency, safety and sustainability standards compared](#Chapter-2-The-efficiency-safety-and-sustainability-standards-compared)
 
 ## Introduction and Course Overview
 
@@ -214,6 +215,42 @@ Highlighted terms:
 
 1. public good - a good that is consumed in common, like $CO_2$ reductions
 
+
+### Chapter 2 The efficiency, safety and sustainability standards compared
+
+Ethics and Economics
+
+1. “How much pollution is too much?” is a **normative issue**
+   - focuses our attention on what should be, rather than what is.
+2. three different pollution standards: efficiency standard, safety standard, sustainability standard
+
+#### Utility and Utilitarianism
+
+1. **utilitarianism**
+   -  human-centered (or anthropocentric) moral foundation underlying economic analysis
+   - Economic analysts are concerned with human welfare or well-being
+   - From the economic perspective, the environment should be protected for the material benefit of humanity and not for strictly moral or ethical reasons.
+   - To an economist, saving the blue whale from extinction is valuable only insofar as doing so yields happiness (or prevents tragedy) for present or future generations of people
+     - The existence of the whale independent of people is of no importance
+2. biocentric view
+   - independent of the utility of doing so, people have a moral responsibility to treat the earth with respect
+3. Economists respond at the material level by assuming that the consumption of goods brings happiness or utility
+   - includes both market goods and nonmarket goods (clean air, charitable deeds, mountaintop views, etc.)
+4. utility function
+   - ![Screen Shot 2022-08-26 at 1 11 19 PM](https://user-images.githubusercontent.com/31806435/186983587-07e1ae03-92f6-48cb-95ec-87fa8c0de4f6.png)
+   - + signs indicates Aldo's utility rises as he consumes each good
+5. More is better: One additional assumption about this utility-consumption relationship
+
+#### Social Welfare
+
+1. social welfare function
+   - ![Screen Shot 2022-08-26 at 1 13 00 PM](https://user-images.githubusercontent.com/31806435/186983905-de892396-fe28-45a3-b783-cdb9b407d047.png)
+     - + signs indicate that social welfare rises as each individual gets happier 
+   - ![Screen Shot 2022-08-26 at 1 15 56 PM](https://user-images.githubusercontent.com/31806435/186984169-d2e52d09-3792-4df9-af81-581dc0fc7a6a.png)
+     - common social welfare function is the sum of individual utilities
+     - original utilitarians believe this to be correct form, since "greatest good for the greatest number" should be the guiding principle for public policy
+   -  They thought that to implement such a policy would require measuring utility in a precise way, and they devised elaborate methods for comparing the relative happiness derived from consumption by different individuals.
+2. equal marginal utility of consumption
 
 
 
