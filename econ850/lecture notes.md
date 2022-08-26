@@ -2,6 +2,7 @@
 1. Week 1: [Introduction and Course Overview](#Introduction-and-Course-Overview)
    - [Intro Slides](#Intro-Slides)
    - [50 Years of Environmental Economics](#50-Years-of-Environmental-Economics)
+   - [Chapter 1 Four main questions in environmental economics](#Chapter-1-Four-main-questions-in-environmental-economics)
 
 ## Introduction and Course Overview
 
@@ -141,5 +142,36 @@ atmosphere.
 17. Which policy, taxation or permitting, better maximizes total social welfare – accounting for all economic and environmental costs and benefits?
     - answer depends on the relative impacts of uncertain economic costs as compared to uncertain environmental costs. 
 
+### Chapter 1 Four main questions in environmental economics
+
+#### Four Economic Questions about Global Warming
+
+1. How much pollution is too much?
+   - “At what level are the benefits of pollution outweighed by its costs?
+   - Zero pollution is an unachievable and undesirable goal; pollution a by-product of living
+2. Is government up to the job?
+3. How can we do better?
+   -  Possible policies: regulations, taxes, permit systems, technology subsidies (or their removal), research incentives, infrastructure investment, right-to-know laws, product labeling, legal liability, fines, and jail terms.
+4. Can we resolve global issues?
+   - regulating pollution within a single nation is difficult, yet global warming transcends national boundaries
+
+Highlighted terms:
+
+1. Greenhouse gas - compound that traps reflected heat from the earth’s surface and contributes to global warming
+2. The first major impact will be on patterns of temperature, flooding, and drought, affecting agricultural output.
+   - Northerly regions may experience an increase in precipitation and yields, but the grain belts of the US, Australia, and central Europe will become drier and agricultural output will fall.
+3. Natural ecosystems will suffer; boundary of forest ecosystems will move northward by 600 kilometers
+4. Ocean acidification: ocean continues to acidify, life at the base of the ocean food chain could begin to die off
+5. Sea-level rise as ice caps begin to melt, and the warming ocean expands
+6. Catastrophic outcomes - collapse and melting of the Greenland and West Antarctic ice sheets, raising sea levels by 40+ feet
+7. Global warming is a consequence of the greenhouse effect: 
+   - Solar energy enters the earth’s biosphere in the form of visible and ultraviolet light from the sun
+   - much of it is radiated back into the biosphere as infrared radiation or heat
+   - The CO2 and other greenhouse gases surrounding the earth let in the visible and ultraviolet light from the sun.
+   - like a blanket, these gases trap the reflected infrared radiation (heat) close to the earth’s surface
+8. Uncertainty in predicting the degree of global warming is due to positive and negative feedback effects
+   - global warming will trigger a runaway greenhouse effect, in which the initial warming will feed on itself.
+
+#### How much pollution is too much?
 
 
