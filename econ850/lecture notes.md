@@ -97,13 +97,20 @@ for environmental protection
    - unregulated use of a commons – a place that everybody can use, with no real owner – could lead to unsustainable exploitation and environmental degradation of the oceans, land and
 atmosphere.
    - argument largely based on biology and demography; many economists argue fundamental problem was lack of ownership.
-   - Reasoning: 
+   - Reasoning: a clean environment represents a public good that provides health and aesthetic benefits to millions
+   - once provided, clean air is available to others to breathe at the same time and at no additional cost
+   - consumers will not buy clean air, because they can breathe whether they pay or not
+   - free-riding behavior; no business would voluntarily pay the costs associated with cleaning up the air
+   - firms who do not clean up will be able to charge a lower price for their goods/services, gaining a market advantage
 9. Ownership
    - If someone possessed a resource, they would protect their property.
    - But private markets fail to provide public goods such as roads, law and order, defense.
      - Lighthouse example: when built, its light can provide navigation benefits to additional boats at no additional costs
      - But no business could recover cost of lighthosue, since boaters can use the light whether they pay or not
      - "Free riders" cause the private market to fail, even though social benefits exceed costs 
-
-
+10. Major economic problem of environmental protection:
+    - Even if positive net benefits overall, some receive disproportionate benefits, other bear disproportionate costs.
+    - Economic analysis can meaasure the distribution of gains and losses from proposed policies
+      - Can also help design a policy package that achieves pollution reduction and desired objectives for distribution of gains and losses
+11. 
 
