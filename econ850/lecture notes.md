@@ -102,7 +102,7 @@ atmosphere.
    - consumers will not buy clean air, because they can breathe whether they pay or not
    - free-riding behavior; no business would voluntarily pay the costs associated with cleaning up the air
    - firms who do not clean up will be able to charge a lower price for their goods/services, gaining a market advantage
-9. Ownership
+9. Answer is **Ownership**
    - If someone possessed a resource, they would protect their property.
    - But private markets fail to provide public goods such as roads, law and order, defense.
      - Lighthouse example: when built, its light can provide navigation benefits to additional boats at no additional costs
@@ -112,5 +112,9 @@ atmosphere.
     - Even if positive net benefits overall, some receive disproportionate benefits, other bear disproportionate costs.
     - Economic analysis can meaasure the distribution of gains and losses from proposed policies
       - Can also help design a policy package that achieves pollution reduction and desired objectives for distribution of gains and losses
-11. 
-
+11. US Environmental Protection Agency (EPA), established 1970
+    - Focused on technological and legal frameworks to control pollution with little consideration of economic implications.
+    - Environmental protection viewed as moral imperative, costs were not taken into account.
+12. In contrast, **environmental economics analyze both costs and benefits of environmental protection schemes**.
+    - Often found that costs of actual legislative and regulatory changes were significantly higher than other policies that could achieve the same degree of environmental protection.
+    - Economically efficient approaches could lead to greater environmental protection for the same level of financial investment.
