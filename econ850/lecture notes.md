@@ -174,4 +174,47 @@ Highlighted terms:
 
 #### How much pollution is too much?
 
+1. Kyoto global warming treaty - 1997 accords requires participating countries to reduce their emissions of greenhouse gases to around 5% below 1990 levels by 2012
+2. efficiency standard - use of benefit-cost analysis by economists is implicitly endorsing an unstated ethical goal: control pollution only if the measurable monetary benefits of doing so are greater than the measurable monetary costs
+3. safety standard - reducing pollution to (socially defined) “safe” levels, unless the costs of doing so are prohibitive
+4. ecological sustainability -  protecting natural ecosystems from major changes unless the costs of doing so are prohibitive
+
+#### Is Government Up to the Job?
+
+1. Two obstacles stand in the way of effective government action.
+   1. **imperfect information** - Benefits such as cancers reduced, visibility improved, and ecosystems salvaged are hard to measure and even harder to quantify.
+   2. **opportunity for political influence** - How much impact do ideology and raw political power have in determining what types of pollution are regulated, which natural resources are protected, and which polluters are punished?
+2. conservatives - view governmental intervention as a necessary evil and argue for as limited a government role as is possible in all affairs, including environmental affairs.
+3. progressives - view government as capable of promoting an activist agenda to serve the general interest of the public
+   - argue that the problem with government involvement in the economy is not primarily the existence of pluralistic special interest groups but the dominance of big business and development interests in the legislative and regulatory process
+
+#### How Can We Do Better?
+
+1. Three categories of measures to control carbon dioxide emissions
+   1. command-and-control regulation
+      - current, dominant approach to environmental protection
+      - government would regulate CO2 emissions by mandating the adoption of particular types of CO2 abatement technology
+      - criticized as centralized, inflexible, much more costly than necessary
+   2. incentive-based regulation
+      - set emission targets and leave it up to industry to figure out the best way to comply
+      - firms are provided with incentives to reduce emissions: 
+      - economists believe this is best foundation to reduce pollution and resource degradation
+        1. pollution tax
+           -  tax based on the carbon content of fuels (a carbon or CO2 tax)
+           -   raising the price of “dirty” (carbon-intensive) fossil fuels, the marketplace would promote “clean” (lower carbon) fuels like renewable electric power.
+        2. cap-and-trade systems
+           - a cap on total U.S. CO2 emissions
+           - government would auction off just enough permits to emit a ton of CO2, so that the auctioned permits add up to the cap’s total.
+           - 
+   3. clean technologies
+      - government can force firms to meet energy-efficient design standards, such as building codes
+      - government could promote clean technological change through its investment activities
+
+#### Can We Resolve Global Issues?
+
+1. public good - a good that is consumed in common, like $CO_2$ reductions
+
+
+
+
 
