@@ -393,7 +393,8 @@ Ethics and Economics
       - What if the site visit was incidental to travel for a family reunion?
     - What about people who place high value on the environmental benefit but don't pay for travel?
       - Either because they cannot afford it or because they value it so much that they have moved closer to enjoy it.
-
+11. Travel cost method - example studies
+    - ![Screen Shot 2022-09-24 at 9 05 44 PM](https://user-images.githubusercontent.com/31806435/192127896-9dfc5d77-7833-4cb6-821a-a46aebe8d79d.png)
 
 
 
