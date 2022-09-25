@@ -272,3 +272,30 @@ Ethics and Economics
 
 [Overview of methods to value ecosystem services](https://www.youtube.com/watch?v=O_m76akZWWo&t=989s)
 
+#### Circular Flow Model of Environment-Economy Relationship
+
+![Screen Shot 2022-09-24 at 7 22 13 PM](https://user-images.githubusercontent.com/31806435/192125493-a80322d1-960c-48bc-b4de-27fc54ba81c4.png)
+
+#### Components of an Ecosystem Valuation
+
+![Screen Shot 2022-09-24 at 7 23 31 PM](https://user-images.githubusercontent.com/31806435/192125520-8b4e83ae-7a46-42df-81a4-99ba46832453.png)
+
+#### Components for assessment (SEQ example)
+
+![Screen Shot 2022-09-24 at 7 26 22 PM](https://user-images.githubusercontent.com/31806435/192125584-935e7c49-e0d3-41f4-a5b0-ac1cdbfa509f.png)
+
+#### Connections between Ecosystem Structure and Function, Services, Policies, and Values
+
+![Screen Shot 2022-09-24 at 7 27 19 PM](https://user-images.githubusercontent.com/31806435/192125593-dbeb15f9-789c-4918-a126-a6a6257fa024.png)
+
+#### Overview of valuation methods
+
+1. Wide variety of different methods
+   - market based
+   - stated preference
+   - revealed preference
+2. Considerable limitations and ranges of values
+3. The idea of an objective process of converting values to monetary terms aligns with environmental economics but would be contested by ecological economists
+4. Consideration needs to be given to differences in public vs private objectives and values
+
+
