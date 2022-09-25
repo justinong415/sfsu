@@ -313,3 +313,17 @@ Ethics and Economics
    - Can be used when in order to enjoy or benefit from an environmental asset, a person is willing to purchase related products that have defined values. For example:
      - **travel cost technique**: they are willing to spend time and money to visit a remote national park
      - **hedonic price analysis technique**: they are willing to pay more for a hilltop lot with a view, or they are willing to accept a lower wage to live in a rural area with more environmental amenities
+7. Stated preference and contingent valuation methods
+   - Stated preference methods obtain values by assuming a hypothetical market for an unpriced good or service and then asking a sample of people directly about the values that they attach to a specific environmental change. 
+8. Choice experiments
+   - Choice experiments ask people to evaluate combinations of attributes and prices.
+   - A choice basket that might include: 
+     - a specific level of pollution
+     - a specific level of preservation
+     - a specific level of employment
+     - and a specific cost to the respondent.
+   - By ranking these different combinations it is possible to isolate the value attached to particular environmental attributes.
+9. Benefit transfer
+   - Used to estimate economic values for ecosystem services by transferring available information from studies already completed at one or more sites to another location and/or context.
+10. Cost benefit analysis and cost effectiveness analysis
+    - Evaluates the costs and benefits of different projects, policies, or other alternatives over a period of time with a particular focus on net present values, benefit cost ratios, payback periods, and internal rates of return. 
