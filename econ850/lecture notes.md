@@ -7,6 +7,7 @@
 2. Week 6: [Valuation Intro and Revealed Preference](#Valuation-Intro-and-Revealed-Preference)
    - [Introduction to Environmental Valuation](#Introduction-to-Environmental-Valuation)
    - [Travel Cost Method](#Travel-Cost-Method)
+   - [Intro to Valuation](#Intro-to-Valuation)
 
 ## Introduction and Course Overview
 
@@ -396,7 +397,9 @@ Ethics and Economics
 11. Travel cost method - example studies
     - ![Screen Shot 2022-09-24 at 9 05 44 PM](https://user-images.githubusercontent.com/31806435/192127896-9dfc5d77-7833-4cb6-821a-a46aebe8d79d.png)
 
+### Intro to Valuation
 
+[Valuation of Ecosystem Services: Intro to Valuation](https://www.youtube.com/watch?v=0CHIs9dLvxA)
 
 
 
