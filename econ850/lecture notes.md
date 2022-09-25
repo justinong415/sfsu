@@ -4,6 +4,7 @@
    - [50 Years of Environmental Economics](#50-Years-of-Environmental-Economics)
    - [Chapter 1 Four main questions in environmental economics](#Chapter-1-Four-main-questions-in-environmental-economics)
    - [Chapter 2 The efficiency, safety and sustainability standards compared](#Chapter-2-The-efficiency-safety-and-sustainability-standards-compared)
+2. Week 6: [Valuation Intro and Revealed Preference](#Valuation-Intro-and-Revealed-Preference)
 
 ## Introduction and Course Overview
 
@@ -265,6 +266,6 @@ Ethics and Economics
       - This is done without reference to who bears the costs or gains the benefits.
 
 
-
+## Valuation Intro and Revealed Preference
 
 
