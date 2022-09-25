@@ -5,6 +5,8 @@
    - [Chapter 1 Four main questions in environmental economics](#Chapter-1-Four-main-questions-in-environmental-economics)
    - [Chapter 2 The efficiency, safety and sustainability standards compared](#Chapter-2-The-efficiency-safety-and-sustainability-standards-compared)
 2. Week 6: [Valuation Intro and Revealed Preference](#Valuation-Intro-and-Revealed-Preference)
+   - [Introduction to Environmental Valuation](#Introduction-to-Environmental-Valuation)
+   - [Travel Cost Method](#Travel-Cost-Method)
 
 ## Introduction and Course Overview
 
@@ -268,7 +270,7 @@ Ethics and Economics
 
 ## Valuation Intro and Revealed Preference
 
-### Introduction to Environmental Valuation, Dr. Ashford
+### Introduction to Environmental Valuation
 
 [Overview of methods to value ecosystem services](https://www.youtube.com/watch?v=O_m76akZWWo&t=989s)
 
@@ -327,3 +329,36 @@ Ethics and Economics
    - Used to estimate economic values for ecosystem services by transferring available information from studies already completed at one or more sites to another location and/or context.
 10. Cost benefit analysis and cost effectiveness analysis
     - Evaluates the costs and benefits of different projects, policies, or other alternatives over a period of time with a particular focus on net present values, benefit cost ratios, payback periods, and internal rates of return. 
+
+### Travel Cost Method
+
+[Travel cost method](https://www.youtube.com/watch?v=EshPNDXe9kI) (~32m)
+
+#### Categories of benefits and values
+
+1. Three cateogires of unpriced benefits and corresponding values:
+   1. direct-use benefits and values
+   2. indirect-use benefits and values
+   3. non-use benefits and values
+2. Framework for environmental valuation
+   - ![Screen Shot 2022-09-24 at 8 22 31 PM](https://user-images.githubusercontent.com/31806435/192126806-856acf13-4b86-4366-bcc9-59e42566fd03.png)
+3. Travel Cost method
+   - Travel Cost analysis is a "revealed preference" method. 
+   - It focuses on direct use values rather than indirect values or non-use values.
+   - The method involvees collecting data on costs incurred by each individual travelling to the recreational site or amenity.   
+     - This information is used to construct a demand curve where the costs incurred are the "price" paid by visitors (cost of driving, accomodation, entrance fees, etc.) and the quantity consumed is the number of visits (typically in a season or year).
+   - The actual visitation expenditures represent a lower bound to their maximum willingness to pay.
+     - However, actual expenditures do not capture _consumer surplus_ - the true measure of net economic benefit.
+4. Consumer and Producer Surplus
+   - ![Screen Shot 2022-09-24 at 8 39 33 PM](https://user-images.githubusercontent.com/31806435/192127215-29fa06cc-7d13-4342-b391-b0595d1274a4.png)
+5. Travel Cost Method
+   - ![Screen Shot 2022-09-24 at 8 40 21 PM](https://user-images.githubusercontent.com/31806435/192127232-89d34510-9a96-4596-9b43-2b9b98d63c0e.png)
+   - ![Screen Shot 2022-09-24 at 8 44 04 PM](https://user-images.githubusercontent.com/31806435/192127324-8e9de43c-8073-495b-893c-6efc31a681d1.png)
+   - Individual Travel Cost Method, Zonal Method
+   - ![Screen Shot 2022-09-24 at 8 47 19 PM](https://user-images.githubusercontent.com/31806435/192127415-fe4685c9-3c1f-4463-a32d-d1dd3806feff.png)
+
+
+
+
+
+
