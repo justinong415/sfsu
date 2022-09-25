@@ -9,6 +9,8 @@ Econ 850 students must conduct a small research project on a subject. The studen
 
 - [US Forces Are Leaving a Toxic Environmental Legacy in Afghanistan](#US-Forces-Are-Leaving-a-Toxic-Environmental-Legacy-in-Afghanistan)
 - [Military bases contamination will affect water for generations](#Military-bases-contamination-will-affect-water-for-generations)
+- [The Effects of the US Military Bases on the Philippine Economy](#The-Effects-of-the-US-Military-Bases-on-the-Philippine-Economy)
+
 
 ---
 
@@ -35,6 +37,12 @@ Econ 850 students must conduct a small research project on a subject. The studen
 1. August 18, 2017
 2. George is among at least 400 active and closed military installations nationwide where the use of toxic chemicals has contaminated or is suspected of contaminating water on bases and nearby communities...
 
+---
+
+### The Effects of the US Military Bases on the Philippine Economy
+
+[The Effects of the US Military Bases on the Philippine Economy.pdf](https://github.com/justinong415/sfsu/files/9642037/The.Effects.of.the.US.Military.Bases.on.the.Philippine.Economy.pdf)
+1. [Contemporary Southeast Asia, MArch 1990, 28 pages, JSTOR](https://www-jstor-org.jpllnet.sfsu.edu/stable/25798077?searchText=The+Effects+of+the+U.S.+Military+Bases+on+the+Philippine+Economy&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BEffects%2Bof%2Bthe%2BU.S.%2BMilitary%2BBases%2Bon%2Bthe%2BPhilippine%2BEconomy%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A93504ddcadb89f894c56d9e98223a33e#metadata_info_tab_contents)
 
 
 
