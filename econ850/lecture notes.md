@@ -291,11 +291,25 @@ Ethics and Economics
 #### Overview of valuation methods
 
 1. Wide variety of different methods
-   - market based
-   - stated preference
-   - revealed preference
+   - market based, stated preference, revealed preference, etc.
 2. Considerable limitations and ranges of values
 3. The idea of an objective process of converting values to monetary terms aligns with environmental economics but would be contested by ecological economists
 4. Consideration needs to be given to differences in public vs private objectives and values
 
+#### Valuation Methods
 
+1. Production Function and Market Based Approaches
+   - In this case the environmental good must be able to be treated as an input into the production process of something.
+   - Therefore, changes in environmental quality would have direct effects on the levels of production of the good.
+2. Opportunity Cost approach
+   - Establishes the value of an environmental asset by estimating the value of alternative uses of the resources.
+3. Dose-response approach
+   - Used to estimate the pollution or environmental change effects on human and ecosystem health.
+4. Replacement or Restoration Cost
+   - Determines the value of an environmental asset by estimating the amount of money that would have to be spent to restore the environment to its previous undamaged state.
+5. Substitutes, avoided or averted costs
+   - Determines the value of an environmental asset by estimating the cost of alternative substitutes that would provide the same benefit/services
+6. Revealed preference methodss
+   - Can be used when in order to enjoy or benefit from an environmental asset, a person is willing to purchase related products that have defined values. For example:
+     - **travel cost technique**: they are willing to spend time and money to visit a remote national park
+     - **hedonic price analysis technique**: they are willing to pay more for a hilltop lot with a view, or they are willing to accept a lower wage to live in a rural area with more environmental amenities
