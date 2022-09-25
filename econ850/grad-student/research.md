@@ -1,5 +1,11 @@
 
-🚧 
+Econ 850 students must conduct a small research project on a subject. The student will give a 20-minute presentation of the topic at the end of semester and hand in a 10-15 page written report. Include elaboration of a:
+
+1. Class valuation project
+2. Social equity and the environment
+3. Social discount rates 
+
+---
 
 - [US Forces Are Leaving a Toxic Environmental Legacy in Afghanistan](#US-Forces-Are-Leaving-a-Toxic-Environmental-Legacy-in-Afghanistan)
 - [Military bases contamination will affect water for generations](#Military-bases-contamination-will-affect-water-for-generations)
