@@ -357,8 +357,19 @@ Ethics and Economics
    - Individual Travel Cost Method, Zonal Method
    - ![Screen Shot 2022-09-24 at 8 47 19 PM](https://user-images.githubusercontent.com/31806435/192127415-fe4685c9-3c1f-4463-a32d-d1dd3806feff.png)
 
+#### Steps: Individual Travel Cost Method
 
-
+1. Define the site to be valued
+   - e.g. beaches from Mooloolaba to Cotton Tree
+2. Define the recreation uses and the season
+   - e.g. surfing and water recreation
+3. Develop a sampling strategy
+   1. Combination of on-site surveys and off-site surveys
+   2. In-person or by mail, phone, or email
+   3. Extend of wider population surveyed
+4. Specify the model 
+   - e.g. the functional form of the equations and the regression methods employed
+   - ![Screen Shot 2022-09-24 at 8 51 03 PM](https://user-images.githubusercontent.com/31806435/192127508-16309e27-08fc-4df3-88d6-ac2173a83852.png)
 
 
 
