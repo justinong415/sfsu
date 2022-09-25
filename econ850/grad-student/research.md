@@ -2,7 +2,7 @@
 🚧 
 
 - [US Forces Are Leaving a Toxic Environmental Legacy in Afghanistan](#US-Forces-Are-Leaving-a-Toxic-Environmental-Legacy-in-Afghanistan)
-
+- [Military bases contamination will affect water for generations](#Military-bases-contamination-will-affect-water-for-generations)
 
 ---
 
@@ -22,3 +22,16 @@
 
 
 ---
+
+### Military bases contamination will affect water for generations
+
+[Military bases’ contamination will affect water for generations](https://publicintegrity.org/environment/military-bases-contamination-will-affect-water-for-generations/)
+1. August 18, 2017
+2. George is among at least 400 active and closed military installations nationwide where the use of toxic chemicals has contaminated or is suspected of contaminating water on bases and nearby communities...
+
+
+
+
+
+
+
