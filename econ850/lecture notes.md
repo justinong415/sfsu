@@ -268,4 +268,7 @@ Ethics and Economics
 
 ## Valuation Intro and Revealed Preference
 
+### Introduction to Environmental Valuation, Dr. Ashford
+
+[Overview of methods to value ecosystem services](https://www.youtube.com/watch?v=O_m76akZWWo&t=989s)
 
