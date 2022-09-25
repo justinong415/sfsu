@@ -370,6 +370,32 @@ Ethics and Economics
 4. Specify the model 
    - e.g. the functional form of the equations and the regression methods employed
    - ![Screen Shot 2022-09-24 at 8 51 03 PM](https://user-images.githubusercontent.com/31806435/192127508-16309e27-08fc-4df3-88d6-ac2173a83852.png)
+5. Design and implement the survey
+6. Measure the trip cost
+7. Estiamte the demand function
+8. Calculate the consumer surplus
+   - ![Screen Shot 2022-09-24 at 8 52 38 PM](https://user-images.githubusercontent.com/31806435/192127549-19fd10ff-1514-42cd-a210-5c12a232512e.png)
+   - ![Screen Shot 2022-09-24 at 8 55 29 PM](https://user-images.githubusercontent.com/31806435/192127615-fc85ecfd-2bfa-4487-a4f9-8e47257cb803.png)
+9. Travel cost method - policy implications
+   - ![Screen Shot 2022-09-24 at 8 57 32 PM](https://user-images.githubusercontent.com/31806435/192127669-7a09b5e4-d151-443c-849c-d6813e09e0ad.png)
+   - ![Screen Shot 2022-09-24 at 8 58 30 PM](https://user-images.githubusercontent.com/31806435/192127683-368544f8-54f2-44dc-bec0-729a066d7b09.png)
+   - ![Screen Shot 2022-09-24 at 8 59 44 PM](https://user-images.githubusercontent.com/31806435/192127712-f9ce2fe8-63ad-4735-94cb-dd49d88b5cfd.png)
+10. Travel cost method - issues
+    - How should the opportunity cost of time spent travelling and on-site be measured?
+      - Full salary? What about retired people?
+    - What about possible alternative recreation sites that the person might have visited instead?
+      - How might substitute sites affect the values that are derived for any particular site?
+    - Multipurpose visits
+      - What components of overall cost should be allocated to one particular site on trips that visit several sites?
+      - What about where the travel component is part of the benefit?
+    - Travel motivations
+      - Do visitors travel specifically to see one site, and visit others incidentally on the way?
+      - What if the site visit was incidental to travel for a family reunion?
+    - What about people who place high value on the environmental benefit but don't pay for travel?
+      - Either because they cannot afford it or because they value it so much that they have moved closer to enjoy it.
+
+
+
 
 
 
