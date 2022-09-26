@@ -10,6 +10,7 @@ Wikipedia
 
 - [US Naval Base Subic Bay](https://en.wikipedia.org/wiki/U.S._Naval_Base_Subic_Bay)
   - The departure of the United States Navy left a huge clean-up to be completed. Soil and water was contaminated with lead, asbestos, PCBs, pesticides, and possibly nuclear waste from submarines. As of 2012, clean-up estimates for Subic Bay Naval Base and Clark Air Base were $40 million each.
+- [Subic Special Economic and Freeport Zone](https://en.wikipedia.org/wiki/Subic_Special_Economic_and_Freeport_Zone)
 
 ---
 News Articles
