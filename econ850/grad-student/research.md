@@ -6,6 +6,12 @@ Econ 850 students must conduct a small research project on a subject. The studen
 3. Social discount rates 
 
 ---
+Wikipedia and Articles
+
+- [US Naval Base Subic Bay](https://en.wikipedia.org/wiki/U.S._Naval_Base_Subic_Bay)
+
+
+---
 Research Papers
 
 
