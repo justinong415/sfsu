@@ -6,10 +6,15 @@ Econ 850 students must conduct a small research project on a subject. The studen
 3. Social discount rates 
 
 ---
-Wikipedia and Articles
+Wikipedia
 
 - [US Naval Base Subic Bay](https://en.wikipedia.org/wiki/U.S._Naval_Base_Subic_Bay)
 
+---
+News Articles
+
+- [Decades later, U.S. military pollution in Philippines linked to deaths](https://www.stripes.com/news/decades-later-u-s-military-pollution-in-philippines-linked-to-deaths-1.98570), Stars and Tripes, Feb 2010
+  - Records of about 500 families who sought refuge on the deserted bases after a 1991 volcanic eruption indicate 76 people died and 68 others were sickened by pollutants on the bases. A study in 2000 for the Philippine Senate also linked the toxins to "unusually high occurrence of skin disease, miscarriages, still births, birth defects, cancers, heart ailments and leukemia."
 
 ---
 Research Papers
