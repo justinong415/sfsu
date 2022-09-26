@@ -14,6 +14,7 @@ Research Papers
 - [The Effects of the US Military Bases on the Philippine Economy](#The-Effects-of-the-US-Military-Bases-on-the-Philippine-Economy)
 - [The Role of US Military Bases in the Philippine Economy](#The-Role-of-US-Military-Bases-in-the-Philippine-Economy)
 - [Life After Subic Bay](#Life-After-Subic-Bay)
+- [Unsinkable Economic Development in Subic Bay][#Unsinkable-Economic-Development-in-Subic-Bay)
 
 
 ---
@@ -66,6 +67,15 @@ Research Papers
 [Life After Subic Bay.pdf](https://github.com/justinong415/sfsu/files/9642093/Life.After.Subic.Bay.pdf)
 1. [Life After Subic Bay, Defense Transportation Journal, 1993](https://www-jstor-org.jpllnet.sfsu.edu/stable/44218031?searchText=Subic+Bay&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DSubic%2BBay&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Addbe5e60a51be4a7990c4b5ee50adbe6#metadata_info_tab_contents)
 2. The impact of Subie Bay's closure will be felt in several ways. Economically, the base employed over 14,000 Filipino nationals and injected millions of dollars annually into the local economy. Strategically, it was home to nearly 5,000 military personnel, and 4,400 family members, and was a key logistical base in the region.
+
+---
+
+### Unsinkable Economic Development in Subic Bay
+
+[Unsinkable Economic Development in Subic Bay.pdf](https://github.com/justinong415/sfsu/files/9642112/Unsinkable.Economic.Development.in.Subic.Bay.pdf)
+1. [Unsinkable: Economic Development in Subic Bay, Harvard International Review, 1998](https://www-jstor-org.jpllnet.sfsu.edu/stable/42763964?searchText=Subic+Bay&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DSubic%2BBay&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Addbe5e60a51be4a7990c4b5ee50adbe6#metadata_info_tab_contents)
+2. Subic Bay was once the site of one of the largest US naval bases in foreign territory. Today, as a significant economic center, the Subic Bay Metropolitan Authority (SBMA) promises genuine development for the Filipino economy.
+   - Long dubbed "the sick man of Asia," the Philippines is finally catching up to its booming neighbors to become a newly industrialized country, and the SBMA is emerging as one of the major catalysts of this transformation.
 
 
 
