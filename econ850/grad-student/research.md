@@ -9,6 +9,7 @@ Econ 850 students must conduct a small research project on a subject. The studen
 Wikipedia
 
 - [US Naval Base Subic Bay](https://en.wikipedia.org/wiki/U.S._Naval_Base_Subic_Bay)
+  - The departure of the United States Navy left a huge clean-up to be completed. Soil and water was contaminated with lead, asbestos, PCBs, pesticides, and possibly nuclear waste from submarines. As of 2012, clean-up estimates for Subic Bay Naval Base and Clark Air Base were $40 million each.
 
 ---
 News Articles
