@@ -6,10 +6,14 @@ Econ 850 students must conduct a small research project on a subject. The studen
 3. Social discount rates 
 
 ---
+Research Papers
+
 
 - [US Forces Are Leaving a Toxic Environmental Legacy in Afghanistan](#US-Forces-Are-Leaving-a-Toxic-Environmental-Legacy-in-Afghanistan)
 - [Military bases contamination will affect water for generations](#Military-bases-contamination-will-affect-water-for-generations)
 - [The Effects of the US Military Bases on the Philippine Economy](#The-Effects-of-the-US-Military-Bases-on-the-Philippine-Economy)
+- [The Role of US Military Bases in the Philippine Economy](#The-Role-of-US-Military-Bases-in-the-Philippine-Economy)
+
 
 
 ---
@@ -44,8 +48,15 @@ Econ 850 students must conduct a small research project on a subject. The studen
 [The Effects of the US Military Bases on the Philippine Economy.pdf](https://github.com/justinong415/sfsu/files/9642037/The.Effects.of.the.US.Military.Bases.on.the.Philippine.Economy.pdf)
 1. [Contemporary Southeast Asia, MArch 1990, 28 pages, JSTOR](https://www-jstor-org.jpllnet.sfsu.edu/stable/25798077?searchText=The+Effects+of+the+U.S.+Military+Bases+on+the+Philippine+Economy&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BEffects%2Bof%2Bthe%2BU.S.%2BMilitary%2BBases%2Bon%2Bthe%2BPhilippine%2BEconomy%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A93504ddcadb89f894c56d9e98223a33e#metadata_info_tab_contents)
 
+---
 
+### The Role of US Military Bases in the Philippine Economy
 
-
+[The Role of US Military Base.pdf](https://github.com/justinong415/sfsu/files/9642056/The.Role.of.US.Military.Base.pdf)
+1. [The Role of U.S. Military Bases in the Philippine Economy, Rand Corporation, April 1971](https://csu-sfsu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_miscellaneous_1679143034&context=PC&vid=01CALS_SFR:01CALS_SFR&lang=en&search_scope=Everything_RAPIDO&adaptor=Primo%20Central&tab=Everything&query=any,contains,The%20Effects%20of%20the%20U.S.%20Military%20Bases%20on%20the%20Philippine%20Economy&mode=Basic)
+2. Rand Corporation evaluates Military facilities contribution to the Philippine Economy
+3. Rand Corporation evaluates the effect of Military facilities on Philippine
+   - Economy; Trade; Gross national product; Export earnings; Foreign exchange reserves; Balance of payments; Imports; Exports
+4. Rand Corporation analyzes Military facilities spending in the Philippines for Consumer goods; Housing; Utilities; Wages
 
 
