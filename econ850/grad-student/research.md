@@ -14,7 +14,7 @@ Research Papers
 - [The Effects of the US Military Bases on the Philippine Economy](#The-Effects-of-the-US-Military-Bases-on-the-Philippine-Economy)
 - [The Role of US Military Bases in the Philippine Economy](#The-Role-of-US-Military-Bases-in-the-Philippine-Economy)
 - [Life After Subic Bay](#Life-After-Subic-Bay)
-- [Unsinkable Economic Development in Subic Bay][#Unsinkable-Economic-Development-in-Subic-Bay)
+- [Unsinkable Economic Development in Subic Bay](#Unsinkable-Economic-Development-in-Subic-Bay)
 
 
 ---
