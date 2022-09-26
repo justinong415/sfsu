@@ -15,6 +15,7 @@ Research Papers
 - [The Role of US Military Bases in the Philippine Economy](#The-Role-of-US-Military-Bases-in-the-Philippine-Economy)
 - [Life After Subic Bay](#Life-After-Subic-Bay)
 - [Unsinkable Economic Development in Subic Bay](#Unsinkable-Economic-Development-in-Subic-Bay)
+- [Global borderlands a case study of the Subic Bay Freeport Zone Philippines](#Global-borderlands-a-case-study-of-the-Subic-Bay-Freeport-Zone-Philippines)
 
 
 ---
@@ -76,6 +77,14 @@ Research Papers
 1. [Unsinkable: Economic Development in Subic Bay, Harvard International Review, 1998](https://www-jstor-org.jpllnet.sfsu.edu/stable/42763964?searchText=Subic+Bay&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DSubic%2BBay&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Addbe5e60a51be4a7990c4b5ee50adbe6#metadata_info_tab_contents)
 2. Subic Bay was once the site of one of the largest US naval bases in foreign territory. Today, as a significant economic center, the Subic Bay Metropolitan Authority (SBMA) promises genuine development for the Filipino economy.
    - Long dubbed "the sick man of Asia," the Philippines is finally catching up to its booming neighbors to become a newly industrialized country, and the SBMA is emerging as one of the major catalysts of this transformation.
+
+---
+
+### Global borderlands a case study of the Subic Bay Freeport Zone Philippines
+
+[Global borderlands a case study of the Subic Bay Freeport Zone Philippines.pdf](https://github.com/justinong415/sfsu/files/9642130/Global.borderlands.a.case.study.of.the.Subic.Bay.Freeport.Zone.Philippines.pdf)
+1. [Theory and Society, July 2015](https://www-jstor-org.jpllnet.sfsu.edu/stable/43694765?searchText=Subic+Bay&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DSubic%2BBay&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Addbe5e60a51be4a7990c4b5ee50adbe6#metadata_info_tab_contents)
+2. By developing the concept of "global borderlands"—semi-autonomous, foreign-controlled geographic locations geared toward international exchange—this article shifts the focus of globalization literature from elite global cities and cities on national borders to within-country sites owned or operated by foreigners and defined by significant social, cultural, and economic exchange. I analyze three shared features of these sites: semi-autonomy, symbolic and geographic boundaries, and unequal relations. The multi-method analyses reveal how the concept of global borderlands can help us better understand the interactions that occur among people of different nationalities, classes, and races/ethnicities and the complex dynamics that occur within foreign-controlled spaces. I first situate global borderlands within the literatures of global cities and geopolitical borderlands. Next, I use the case study of Subie Bay Freeport Zone (SBFZ), Philippines to show (1) how the semi-autonomy of global borderlands produces different regulations depending on nationality, (2) how its geographic and symbolic borders differentiate this space from the surrounding community, and (3) how the semi-autonomy of these locations and their geographic and symbolic borders reproduce unequal relations. As home of the former US Subic Bay Naval Base and current site of a Freeport Zone, the SBFZ serves as a particularly strategic research location to examine the different forms of interactions that occur between groups within spaces of unequal power.
 
 
 
