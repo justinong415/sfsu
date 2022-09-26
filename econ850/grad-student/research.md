@@ -13,7 +13,7 @@ Research Papers
 - [Military bases contamination will affect water for generations](#Military-bases-contamination-will-affect-water-for-generations)
 - [The Effects of the US Military Bases on the Philippine Economy](#The-Effects-of-the-US-Military-Bases-on-the-Philippine-Economy)
 - [The Role of US Military Bases in the Philippine Economy](#The-Role-of-US-Military-Bases-in-the-Philippine-Economy)
-
+- [Life After Subic Bay](#Life-After-Subic-Bay)
 
 
 ---
@@ -58,5 +58,14 @@ Research Papers
 3. Rand Corporation evaluates the effect of Military facilities on Philippine
    - Economy; Trade; Gross national product; Export earnings; Foreign exchange reserves; Balance of payments; Imports; Exports
 4. Rand Corporation analyzes Military facilities spending in the Philippines for Consumer goods; Housing; Utilities; Wages
+
+---
+
+### Life After Subic Bay
+
+[Life After Subic Bay.pdf](https://github.com/justinong415/sfsu/files/9642093/Life.After.Subic.Bay.pdf)
+1. [Life After Subic Bay, Defense Transportation Journal, 1993](https://www-jstor-org.jpllnet.sfsu.edu/stable/44218031?searchText=Subic+Bay&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DSubic%2BBay&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Addbe5e60a51be4a7990c4b5ee50adbe6#metadata_info_tab_contents)
+2. The impact of Subie Bay's closure will be felt in several ways. Economically, the base employed over 14,000 Filipino nationals and injected millions of dollars annually into the local economy. Strategically, it was home to nearly 5,000 military personnel, and 4,400 family members, and was a key logistical base in the region.
+
 
 
