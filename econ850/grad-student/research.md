@@ -6,21 +6,28 @@ Econ 850 students must conduct a small research project on a subject. The studen
 3. Social discount rates 
 
 ---
-Wikipedia
+## Promising and Need to Look Through
+
+- Holding the United States Accountable for Environmental Damages Caused by the U.S. Military in the Philippines, A Plan for the Future 
+  - [Asia-Pacific Law and Policy Journal, Vol. 4, Issue 2, Summer 2003](http://blog.hawaii.edu/aplpj/files/2011/11/APLPJ_04.2_chanbonpin.pdf)
+  - [Holding the US Accountable for Environmental Damages.pdf](https://github.com/justinong415/sfsu/files/9643198/Holding.the.US.Accountable.for.Environmental.Damages.pdf)
+
+
+---
+## Wikipedia
 
 - [US Naval Base Subic Bay](https://en.wikipedia.org/wiki/U.S._Naval_Base_Subic_Bay)
   - The departure of the United States Navy left a huge clean-up to be completed. Soil and water was contaminated with lead, asbestos, PCBs, pesticides, and possibly nuclear waste from submarines. As of 2012, clean-up estimates for Subic Bay Naval Base and Clark Air Base were $40 million each.
 - [Subic Special Economic and Freeport Zone](https://en.wikipedia.org/wiki/Subic_Special_Economic_and_Freeport_Zone)
 
 ---
-News Articles
+## News Articles
 
 - [Decades later, U.S. military pollution in Philippines linked to deaths](https://www.stripes.com/news/decades-later-u-s-military-pollution-in-philippines-linked-to-deaths-1.98570), Stars and Tripes, Feb 2010
   - Records of about 500 families who sought refuge on the deserted bases after a 1991 volcanic eruption indicate 76 people died and 68 others were sickened by pollutants on the bases. A study in 2000 for the Philippine Senate also linked the toxins to "unusually high occurrence of skin disease, miscarriages, still births, birth defects, cancers, heart ailments and leukemia."
 
 ---
-Research Papers
-
+## Research Papers
 
 - [US Forces Are Leaving a Toxic Environmental Legacy in Afghanistan](#US-Forces-Are-Leaving-a-Toxic-Environmental-Legacy-in-Afghanistan)
 - [Military bases contamination will affect water for generations](#Military-bases-contamination-will-affect-water-for-generations)
@@ -29,7 +36,6 @@ Research Papers
 - [Life After Subic Bay](#Life-After-Subic-Bay)
 - [Unsinkable Economic Development in Subic Bay](#Unsinkable-Economic-Development-in-Subic-Bay)
 - [Global borderlands a case study of the Subic Bay Freeport Zone Philippines](#Global-borderlands-a-case-study-of-the-Subic-Bay-Freeport-Zone-Philippines)
-
 
 ---
 
