@@ -20,6 +20,9 @@ Find:
 - The Former U.S. Bases in the Philippines: An Argument for the Application of U.S. Environmental Standards to Overseas Military Bases
   - [Fordham Environmental Law REview, 2011](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1372&context=elr)
   - [The Former US Bases in the Philippines.pdf](https://github.com/justinong415/sfsu/files/9643213/The.Former.US.Bases.in.the.Philippines.pdf)
+- Military Base Closures - US Financial Obligations in the Philippines
+  - [US Government Accountability Office, Report to Congressional Requesters, Jan 1992](https://www.gao.gov/assets/nsiad-92-51.pdf)
+  - [US Financial Obligations in the Philippines.pdf](https://github.com/justinong415/sfsu/files/9651569/US.Financial.Obligations.in.the.Philippines.pdf)
 
 
 ---
