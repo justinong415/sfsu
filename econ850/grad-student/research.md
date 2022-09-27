@@ -6,6 +6,12 @@ Econ 850 students must conduct a small research project on a subject. The studen
 3. Social discount rates 
 
 ---
+Find:
+
+1. Costs in terms of health, environmental damages, or cleanup.
+2. Benefits in terms of what the bases provide in terms of securty or in terms of avoided damages once you clean up.
+
+---
 ## Promising and Need to Look Through
 
 - Holding the United States Accountable for Environmental Damages Caused by the U.S. Military in the Philippines, A Plan for the Future 
