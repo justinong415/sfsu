@@ -11,6 +11,26 @@
    - [Fordham Environmental Law Review, 2011](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1372&context=elr)
    - [The Former US Bases in the Philippines.pdf](https://github.com/justinong415/sfsu/files/9643213/The.Former.US.Bases.in.the.Philippines.pdf)
 
+# Bases
+
+- [Clark Air Base](https://en.wikipedia.org/wiki/Clark_Air_Base)
+  - 13th Air Force Headquarters
+  - Tactical Fighter Training Group
+    - Pacific Air Force's primary air-to-grounds weapons delivery training
+  - Military Airlift Support
+  - Air Force Communications Command
+    - Manages communications data automation systems and air traffic control systems
+  - Special Operations Wing
+  - Third Tactical Fighter Wing
+
+- [US Naval Base Subic Bay](https://en.wikipedia.org/wiki/U.S._Naval_Base_Subic_Bay)
+  - Ship and aircraft maintenance and supply support to Seventh Fleet
+  - Naval Station
+  - Naval Air Station
+  - Intermediate Aircraft Repair
+  - Supply Depot
+  - Ship Repair Facility
+
 # Benefits
 
 - Employment
