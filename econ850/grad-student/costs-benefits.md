@@ -22,7 +22,6 @@
     - Manages communications data automation systems and air traffic control systems
   - Special Operations Wing
   - Third Tactical Fighter Wing
-
 - [US Naval Base Subic Bay](https://en.wikipedia.org/wiki/U.S._Naval_Base_Subic_Bay)
   - Ship and aircraft maintenance and supply support to Seventh Fleet
   - Naval Station
