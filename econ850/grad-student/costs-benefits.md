@@ -1,4 +1,5 @@
 
+# Sources
 
 1. Military Base Closures - US Financial Obligations in the Philippines
    - [US Government Accountability Office, Report to Congressional Requesters, Jan 1992](https://www.gao.gov/assets/nsiad-92-51.pdf)
@@ -9,6 +10,15 @@
 3. The Former U.S. Bases in the Philippines: An Argument for the Application of U.S. Environmental Standards to Overseas Military Bases
    - [Fordham Environmental Law Review, 2011](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1372&context=elr)
    - [The Former US Bases in the Philippines.pdf](https://github.com/justinong415/sfsu/files/9643213/The.Former.US.Bases.in.the.Philippines.pdf)
+
+# Benefits
+
+- Employment
+  - As of March 1991, approximately 5,000 and 14,200 Filipino civilian employees worked for the Air Force and Navy, respectively. (#1, p.2)
+  - Upon leaving on March 1991, US paid for $52.7 million for severance pay, $15.5 million for accumulated sick and annual leave, and $3.1 mllion for bonuses. (#1, p.3)
+  - 
+
+# Costs
 
 
 
