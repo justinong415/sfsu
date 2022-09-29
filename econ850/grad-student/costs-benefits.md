@@ -23,8 +23,11 @@
 
 # Costs
 
+
 - Cleanup
   - Current Basing Agreemnt does not impose environmental responsibility while it operates the base or for cleanup upon withdrawal. (#1, p.3)
     - If US applied US environmental restoration standards, cleanup and restoration costs could approach Superfund proportions. (Superfund is administered by the EPA to clean up the nation's worst hazardous waste sites.) (#1, p.3)
+    - Contaminated Sites includes fire-fighting training facilities and underground storage tanks. (#1, p.3)
+    - Under current agreement, US has no liability for damage; DOD regulations require the services to comply with environmental pollution control standards of general applicability in the host country, but do not impose any specific responsibility for environmental restoration. (#1, p.3)
 
 
