@@ -40,6 +40,10 @@
 - Investments
   - US invested $2.199 billion in military facilities; $1.436 in removable property and $763 million in buildings and structures. (#1, p.3)
 
+- Defense
+  - Bases vital to U.S. national security interests during the Cold War; served as the launching pad for many anti-communist missions (#32, p.333)
+    - Major staging areas in the Korean and Vietnam Wars; US initiated hudnreds of military operations in 70 countries from the PH. (National Security: Enduring Problems in a Changing Defense Environment 173, 2nd ed. 1991, Donald M. Snow)
+
 # Costs
 
 - Contaminated Sites
@@ -60,7 +64,19 @@
     - Under current agreement, US has no liability for damage; DOD regulations require the services to comply with environmental pollution control standards of general applicability in the host country, but do not impose any specific responsibility for environmental restoration. (#1, p.3)
   - Basing Agreement does not impose environmental responsibilities upon US while it operates or for cleanup upon withdrawl. (#1, p.29)
     - "Hold-harmless" hold US harmless from any and all actions, claims, and expenses that could arise after relinquishment of a base.
-  - "Environmental Pollution Control Standards of General Applicability in the Host Country"
+  - "Environmental Pollution Control Standards of General Applicability in the Host Country" (#1, p.29)
     - Regulations generally indicate that U.S. forces are required to comply with all host country standards, as those standards are generally enforced by the host country. 
     - U.S. service officials in the Philippines told us that it does not appear that the Philippine government enforces these laws, either on its own citizens or on military bases. 
+  - Official policy states U.S. military is supposed to follow the environmental regulations of the United States or of the host-country, whichever are more stringent. (#2, p.323)
+
+# Currently
+
+- [Balikatan](https://en.wikipedia.org/wiki/Balikatan) "shoulder-to-shoulder"
+  - US holds annual military exercises with Philippines (and Australia since 2014)
+- VFA: Visiting Forces Agreement (#2, p.334)
+  - Since 1998, both nationss waive all civil liability claims, which include claims for environmental torts.
+  - VFA, art. VI, § 1. Both nations waive “any and all claims against each other for damage, loss or destruction to property of each other’s armed forces or for death or injury to their military and civilian personnel.” 
+
+
+
 
