@@ -39,15 +39,21 @@
 
 - Investments
   - US invested $2.199 billion in military facilities; $1.436 in removable property and $763 million in buildings and structures. (#1, p.3)
-  - 
 
 # Costs
 
+- Contaminated Sites
+  - Enviromental Officers have identified contaminated sites and facilities that would not be in compliance with US environmental standards. (#1, p.27)
+    - No soil and water testing has been conducted in the contaminated areas; the extent of the damage is not known.
+    - both Clark Air Base and Subic Bay Navy Facility have common environmental problems with underground storage tanks and fne-fighting training facilities that do not comply with U.S. standards.
+      - the underground storage tanks lack leak detection equipment, and fire-fighting facilities have no drainage systems.
+      - the fuel and chemicals used in fire-fighting exercises seep directly into the soil and water table
+      - at the Navy facility, the overflow goes directly into Subic Bay. 
+  
 
 - Cleanup
   - Current Basing Agreemnt does not impose environmental responsibility while it operates the base or for cleanup upon withdrawal. (#1, p.3)
     - If US applied US environmental restoration standards, cleanup and restoration costs could approach Superfund proportions. (Superfund is administered by the EPA to clean up the nation's worst hazardous waste sites.) (#1, p.3)
-    - Contaminated Sites includes fire-fighting training facilities and underground storage tanks. (#1, p.3)
     - Under current agreement, US has no liability for damage; DOD regulations require the services to comply with environmental pollution control standards of general applicability in the host country, but do not impose any specific responsibility for environmental restoration. (#1, p.3)
 
 
