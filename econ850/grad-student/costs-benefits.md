@@ -49,7 +49,10 @@
       - the underground storage tanks lack leak detection equipment, and fire-fighting facilities have no drainage systems.
       - the fuel and chemicals used in fire-fighting exercises seep directly into the soil and water table
       - at the Navy facility, the overflow goes directly into Subic Bay. 
-  
+   - Subic Bay Navy Facility does not have a complete sanitary sewer system and treatment facility. (#1, p.27)
+     - sewage and process waste waters are discharged directly into Subic Bay; only 26 percent of the 6 million gallons of sewage generated daily is treated.
+     - lead and other heavy metals from the ship repair facility’s sandblasting site drain directly into the bay or are buried in the landfill.
+     - power plant contains unknown amounts of polychlorinated biphenyl (PCB) and emits untreated pollutants directly into the air. 
 
 - Cleanup
   - Current Basing Agreemnt does not impose environmental responsibility while it operates the base or for cleanup upon withdrawal. (#1, p.3)
