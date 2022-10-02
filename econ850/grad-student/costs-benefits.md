@@ -55,8 +55,12 @@
      - power plant contains unknown amounts of polychlorinated biphenyl (PCB) and emits untreated pollutants directly into the air. 
 
 - Cleanup
-  - Current Basing Agreemnt does not impose environmental responsibility while it operates the base or for cleanup upon withdrawal. (#1, p.3)
+  - Current Basing Agreement does not impose environmental responsibility while it operates the base or for cleanup upon withdrawal. (#1, p.3)
     - If US applied US environmental restoration standards, cleanup and restoration costs could approach Superfund proportions. (Superfund is administered by the EPA to clean up the nation's worst hazardous waste sites.) (#1, p.3)
     - Under current agreement, US has no liability for damage; DOD regulations require the services to comply with environmental pollution control standards of general applicability in the host country, but do not impose any specific responsibility for environmental restoration. (#1, p.3)
-
+  - Basing Agreement does not impose environmental responsibilities upon US while it operates or for cleanup upon withdrawl. (#1, p.29)
+    - "Hold-harmless" hold US harmless from any and all actions, claims, and expenses that could arise after relinquishment of a base.
+  - "Environmental Pollution Control Standards of General Applicability in the Host Country"
+    - Regulations generally indicate that U.S. forces are required to comply with all host country standards, as those standards are generally enforced by the host country. 
+    - U.S. service officials in the Philippines told us that it does not appear that the Philippine government enforces these laws, either on its own citizens or on military bases. 
 
