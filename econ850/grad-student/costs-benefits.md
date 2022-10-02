@@ -57,6 +57,14 @@
      - sewage and process waste waters are discharged directly into Subic Bay; only 26 percent of the 6 million gallons of sewage generated daily is treated.
      - lead and other heavy metals from the ship repair facility’s sandblasting site drain directly into the bay or are buried in the landfill.
      - power plant contains unknown amounts of polychlorinated biphenyl (PCB) and emits untreated pollutants directly into the air. 
+- University of Maryland scientists, however, conducted a comprehensive study of the Clark and Subic sites in 1993. (#2, p.344)
+  - The study analyzed soil, water, and air samples from Clark and found traces of polychlorinated biphenyls (PCBs), heavy metals, and high concentrations of a pesticide.
+- The Philippine government later commissioned U.S.-based consulting firm, Weston International, to perform a baseline study of the soil and water at Clark. (#2, p.344)
+  - Among other things, the Weston study confirmed that: 
+    1. at least one pollutant (including mercury, lead, pesticide dieldrin, benzene, and toluene) existed in twenty-one test sites and none of these sites met drinking water standards;
+    2. unsafe levels of contaminants remained in the soil at thirteen different test sites
+    3.  many of these test sites were located within or very close to communities.
+  - Aimee Suzara, Facing the Toxic Legacy: A Personal Encounter, in MAGANDA MAGAZINE 63 (1999).
 
 - Cleanup
   - Current Basing Agreement does not impose environmental responsibility while it operates the base or for cleanup upon withdrawal. (#1, p.3)
