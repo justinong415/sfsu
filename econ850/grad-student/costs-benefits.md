@@ -86,5 +86,5 @@
   - VFA, art. VI, § 1. Both nations waive “any and all claims against each other for damage, loss or destruction to property of each other’s armed forces or for death or injury to their military and civilian personnel.” 
 
 
-
+change
 
