@@ -1,0 +1,42 @@
+---
+title: 'Give it an appropriate title'
+author: "Author name"
+output: html_document
+  
+---
+
+```{r setup, echo=F, include=T, collapse=T}
+knitr::opts_chunk$set(comment = NA, echo=T, message = FALSE, warning = FALSE)
+options("getSymbols.warning4.0"=FALSE)
+```
+
+
+```{r}
+rm(list=ls()) #rm(list of objects) removes all objects from memory
+library(wooldridge)
+library(tidyverse)
+```
+
+## Basics
+
+- This is point 1
+- This is point 2
+
+## Goals of this lab
+
+- Goal 1
+- Goal 2
+
+
+## Creating R chunks
+
+```{r}
+data(wage1, package='wooldridge')
+# Examine the data 
+head(wage1) 
+
+# OLS regression
+wagereg1 <- (lm(log(wage) ~ educ, data=wage1))
+
+```
+
